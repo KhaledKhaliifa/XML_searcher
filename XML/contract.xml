@@ -1,0 +1,5400 @@
+<contracts>
+    <contract>
+        <contract_no>1</contract_no>
+        <cdate>2015-01-01 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>1</customer_id>
+            <firstname>Amber</firstname>
+            <lastname>Meyer</lastname>
+            <phone_no>2360098137</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>2</contract_no>
+        <cdate>2016-07-02 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>2</customer_id>
+            <firstname>Valerie</firstname>
+            <lastname>Johnson</lastname>
+            <phone_no>9617348782</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>3</contract_no>
+        <cdate>2023-10-29 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>3</customer_id>
+            <firstname>Katherine</firstname>
+            <lastname>Crawford</lastname>
+            <phone_no>2015947734</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>4</contract_no>
+        <cdate>2021-06-15 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>4</customer_id>
+            <firstname>Nicholas</firstname>
+            <lastname>Smith</lastname>
+            <phone_no>6369598229</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>5</contract_no>
+        <cdate>2019-05-29 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>5</customer_id>
+            <firstname>Erin</firstname>
+            <lastname>Pineda</lastname>
+            <phone_no>7911075015</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>6</contract_no>
+        <cdate>2015-11-30 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>6</customer_id>
+            <firstname>Tanya</firstname>
+            <lastname>Murphy</lastname>
+            <phone_no>5010984072</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>7</contract_no>
+        <cdate>2020-09-16 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>7</customer_id>
+            <firstname>William</firstname>
+            <lastname>Flores</lastname>
+            <phone_no>6364857393</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>8</contract_no>
+        <cdate>2019-02-18 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>8</customer_id>
+            <firstname>Matthew</firstname>
+            <lastname>Moss</lastname>
+            <phone_no>5287421417</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>9</contract_no>
+        <cdate>2020-01-24 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>9</customer_id>
+            <firstname>Linda</firstname>
+            <lastname>Logan</lastname>
+            <phone_no>9181808483</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>10</contract_no>
+        <cdate>2022-01-24 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>10</customer_id>
+            <firstname>Jessica</firstname>
+            <lastname>Johnson</lastname>
+            <phone_no>3003062685</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>11</contract_no>
+        <cdate>2021-08-31 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>11</customer_id>
+            <firstname>Ms.</firstname>
+            <lastname>Christine</lastname>
+            <phone_no>4810969966</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>12</contract_no>
+        <cdate>2016-10-14 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>12</customer_id>
+            <firstname>Amanda</firstname>
+            <lastname>Martin</lastname>
+            <phone_no>6275976504</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>13</contract_no>
+        <cdate>2017-05-02 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>13</customer_id>
+            <firstname>Daniel</firstname>
+            <lastname>Hurley</lastname>
+            <phone_no>5503364359</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>14</contract_no>
+        <cdate>2022-06-12 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>14</customer_id>
+            <firstname>Shelby</firstname>
+            <lastname>Griffith</lastname>
+            <phone_no>5946040879</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>15</contract_no>
+        <cdate>2020-08-19 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>15</customer_id>
+            <firstname>Alyssa</firstname>
+            <lastname>Mays</lastname>
+            <phone_no>2400266507</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>16</contract_no>
+        <cdate>2015-01-16 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>16</customer_id>
+            <firstname>Jackie</firstname>
+            <lastname>Doyle</lastname>
+            <phone_no>7948192730</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>17</contract_no>
+        <cdate>2019-09-21 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>17</customer_id>
+            <firstname>Joseph</firstname>
+            <lastname>Peterson</lastname>
+            <phone_no>5823197788</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>18</contract_no>
+        <cdate>2023-02-12 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>18</customer_id>
+            <firstname>Louis</firstname>
+            <lastname>Li</lastname>
+            <phone_no>1809155505</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>19</contract_no>
+        <cdate>2015-01-19 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>19</customer_id>
+            <firstname>Thomas</firstname>
+            <lastname>Harris</lastname>
+            <phone_no>1862183909</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>20</contract_no>
+        <cdate>2023-08-24 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>20</customer_id>
+            <firstname>Brian</firstname>
+            <lastname>Bailey</lastname>
+            <phone_no>4617694724</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>21</contract_no>
+        <cdate>2016-02-15 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>21</customer_id>
+            <firstname>Jonathon</firstname>
+            <lastname>Chambers</lastname>
+            <phone_no>5056171808</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>22</contract_no>
+        <cdate>2016-04-04 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>22</customer_id>
+            <firstname>Molly</firstname>
+            <lastname>Rubio</lastname>
+            <phone_no>2280880664</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>23</contract_no>
+        <cdate>2020-04-26 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>23</customer_id>
+            <firstname>Amy</firstname>
+            <lastname>Miller</lastname>
+            <phone_no>8195677974</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>24</contract_no>
+        <cdate>2023-09-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>24</customer_id>
+            <firstname>Stacie</firstname>
+            <lastname>Guzman</lastname>
+            <phone_no>7588692379</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>25</contract_no>
+        <cdate>2019-03-20 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>25</customer_id>
+            <firstname>Jesse</firstname>
+            <lastname>Garza</lastname>
+            <phone_no>1629821718</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>26</contract_no>
+        <cdate>2019-08-13 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>26</customer_id>
+            <firstname>Caitlin</firstname>
+            <lastname>Gonzalez</lastname>
+            <phone_no>9690658252</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>27</contract_no>
+        <cdate>2021-07-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>27</customer_id>
+            <firstname>Antonio</firstname>
+            <lastname>Calderon</lastname>
+            <phone_no>2326394088</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>28</contract_no>
+        <cdate>2015-09-23 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>28</customer_id>
+            <firstname>Michael</firstname>
+            <lastname>Richardson</lastname>
+            <phone_no>1734151697</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>29</contract_no>
+        <cdate>2022-09-29 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>29</customer_id>
+            <firstname>Julian</firstname>
+            <lastname>Hughes</lastname>
+            <phone_no>5575375536</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>30</contract_no>
+        <cdate>2021-10-04 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>30</customer_id>
+            <firstname>Richard</firstname>
+            <lastname>Reynolds</lastname>
+            <phone_no>3388152672</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>31</contract_no>
+        <cdate>2021-10-26 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>31</customer_id>
+            <firstname>Diana</firstname>
+            <lastname>Mcdonald</lastname>
+            <phone_no>9426760633</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>32</contract_no>
+        <cdate>2021-09-30 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>32</customer_id>
+            <firstname>Carrie</firstname>
+            <lastname>Miller</lastname>
+            <phone_no>6455089603</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>33</contract_no>
+        <cdate>2022-11-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>33</customer_id>
+            <firstname>Benjamin</firstname>
+            <lastname>Wong</lastname>
+            <phone_no>3789526893</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>34</contract_no>
+        <cdate>2019-02-21 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>34</customer_id>
+            <firstname>Amy</firstname>
+            <lastname>King</lastname>
+            <phone_no>9605132318</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>35</contract_no>
+        <cdate>2015-12-09 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>35</customer_id>
+            <firstname>Rebecca</firstname>
+            <lastname>Nguyen</lastname>
+            <phone_no>7502431279</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>36</contract_no>
+        <cdate>2020-11-18 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>36</customer_id>
+            <firstname>Lori</firstname>
+            <lastname>Brown</lastname>
+            <phone_no>9239795232</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>37</contract_no>
+        <cdate>2020-06-01 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>37</customer_id>
+            <firstname>Dominic</firstname>
+            <lastname>Banks</lastname>
+            <phone_no>5248843011</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>38</contract_no>
+        <cdate>2023-06-02 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>38</customer_id>
+            <firstname>Joshua</firstname>
+            <lastname>Spencer</lastname>
+            <phone_no>3956393634</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>39</contract_no>
+        <cdate>2015-09-28 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>39</customer_id>
+            <firstname>David</firstname>
+            <lastname>Burns</lastname>
+            <phone_no>8624740081</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>40</contract_no>
+        <cdate>2017-07-10 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>40</customer_id>
+            <firstname>William</firstname>
+            <lastname>Morales</lastname>
+            <phone_no>6580869415</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>41</contract_no>
+        <cdate>2023-11-11 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>41</customer_id>
+            <firstname>Allison</firstname>
+            <lastname>Abbott</lastname>
+            <phone_no>9536591938</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>42</contract_no>
+        <cdate>2018-12-20 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>42</customer_id>
+            <firstname>Michelle</firstname>
+            <lastname>Brown</lastname>
+            <phone_no>4534862456</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>43</contract_no>
+        <cdate>2017-01-23 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>43</customer_id>
+            <firstname>Jimmy</firstname>
+            <lastname>Wallace</lastname>
+            <phone_no>6868755287</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>44</contract_no>
+        <cdate>2023-06-27 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>44</customer_id>
+            <firstname>Emily</firstname>
+            <lastname>Banks</lastname>
+            <phone_no>6424310691</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>45</contract_no>
+        <cdate>2015-11-15 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>45</customer_id>
+            <firstname>Robyn</firstname>
+            <lastname>Gross</lastname>
+            <phone_no>4298732792</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>46</contract_no>
+        <cdate>2022-01-12 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>46</customer_id>
+            <firstname>Crystal</firstname>
+            <lastname>Daniels</lastname>
+            <phone_no>2198577029</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>47</contract_no>
+        <cdate>2021-07-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>47</customer_id>
+            <firstname>Jonathan</firstname>
+            <lastname>Pham</lastname>
+            <phone_no>5198036538</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>48</contract_no>
+        <cdate>2020-12-17 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>48</customer_id>
+            <firstname>Jose</firstname>
+            <lastname>Wise</lastname>
+            <phone_no>5799076174</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>49</contract_no>
+        <cdate>2019-07-05 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>49</customer_id>
+            <firstname>Suzanne</firstname>
+            <lastname>Golden</lastname>
+            <phone_no>1237920281</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>50</contract_no>
+        <cdate>2020-03-20 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>50</customer_id>
+            <firstname>Kevin</firstname>
+            <lastname>Rodriguez</lastname>
+            <phone_no>2279351827</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>51</contract_no>
+        <cdate>2020-08-27 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>51</customer_id>
+            <firstname>Karen</firstname>
+            <lastname>Rose</lastname>
+            <phone_no>2476999669</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>52</contract_no>
+        <cdate>2021-09-08 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>52</customer_id>
+            <firstname>Stephanie</firstname>
+            <lastname>Mata</lastname>
+            <phone_no>4768602553</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>53</contract_no>
+        <cdate>2023-01-03 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>53</customer_id>
+            <firstname>Stephen</firstname>
+            <lastname>Bender</lastname>
+            <phone_no>4506717902</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>54</contract_no>
+        <cdate>2021-05-22 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>54</customer_id>
+            <firstname>Jessica</firstname>
+            <lastname>Jenkins</lastname>
+            <phone_no>1638992452</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>55</contract_no>
+        <cdate>2018-12-12 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>55</customer_id>
+            <firstname>Colleen</firstname>
+            <lastname>Hess</lastname>
+            <phone_no>6078336976</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>56</contract_no>
+        <cdate>2015-04-16 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>56</customer_id>
+            <firstname>Mark</firstname>
+            <lastname>Gross</lastname>
+            <phone_no>6225301664</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>57</contract_no>
+        <cdate>2022-12-06 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>57</customer_id>
+            <firstname>Jill</firstname>
+            <lastname>Ramos</lastname>
+            <phone_no>1019703307</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>58</contract_no>
+        <cdate>2017-08-20 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>58</customer_id>
+            <firstname>Shannon</firstname>
+            <lastname>Davis</lastname>
+            <phone_no>5512628408</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>59</contract_no>
+        <cdate>2020-05-07 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>59</customer_id>
+            <firstname>Holly</firstname>
+            <lastname>Ball</lastname>
+            <phone_no>6053555175</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>60</contract_no>
+        <cdate>2021-09-16 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>60</customer_id>
+            <firstname>Robert</firstname>
+            <lastname>Valdez</lastname>
+            <phone_no>2954750119</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>61</contract_no>
+        <cdate>2023-04-10 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>61</customer_id>
+            <firstname>Scott</firstname>
+            <lastname>Chambers</lastname>
+            <phone_no>3729182204</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>62</contract_no>
+        <cdate>2022-11-09 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>62</customer_id>
+            <firstname>Michelle</firstname>
+            <lastname>Scott</lastname>
+            <phone_no>6390297777</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>63</contract_no>
+        <cdate>2019-04-14 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>63</customer_id>
+            <firstname>Nicole</firstname>
+            <lastname>Munoz</lastname>
+            <phone_no>5200398882</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>64</contract_no>
+        <cdate>2016-07-07 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>64</customer_id>
+            <firstname>Matthew</firstname>
+            <lastname>Bryant</lastname>
+            <phone_no>4052480708</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>65</contract_no>
+        <cdate>2022-02-18 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>65</customer_id>
+            <firstname>Carla</firstname>
+            <lastname>Watson</lastname>
+            <phone_no>9244139136</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>66</contract_no>
+        <cdate>2018-06-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>66</customer_id>
+            <firstname>Melissa</firstname>
+            <lastname>Alvarez</lastname>
+            <phone_no>4877858731</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>67</contract_no>
+        <cdate>2022-11-11 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>67</customer_id>
+            <firstname>Jennifer</firstname>
+            <lastname>Harris</lastname>
+            <phone_no>4811738471</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>68</contract_no>
+        <cdate>2016-03-18 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>68</customer_id>
+            <firstname>Mark</firstname>
+            <lastname>Allen</lastname>
+            <phone_no>6295724196</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>69</contract_no>
+        <cdate>2016-06-02 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>69</customer_id>
+            <firstname>Justin</firstname>
+            <lastname>Peterson</lastname>
+            <phone_no>7280301231</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>70</contract_no>
+        <cdate>2015-04-04 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>70</customer_id>
+            <firstname>James</firstname>
+            <lastname>Alexander</lastname>
+            <phone_no>5133123256</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>71</contract_no>
+        <cdate>2017-08-05 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>71</customer_id>
+            <firstname>Angela</firstname>
+            <lastname>Coffey</lastname>
+            <phone_no>9408179863</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>72</contract_no>
+        <cdate>2017-07-29 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>72</customer_id>
+            <firstname>Lisa</firstname>
+            <lastname>James</lastname>
+            <phone_no>3848651355</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>73</contract_no>
+        <cdate>2022-01-23 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>73</customer_id>
+            <firstname>Adrian</firstname>
+            <lastname>Ross</lastname>
+            <phone_no>5069502643</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>74</contract_no>
+        <cdate>2019-05-05 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>74</customer_id>
+            <firstname>Haley</firstname>
+            <lastname>Christensen</lastname>
+            <phone_no>1429903585</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>75</contract_no>
+        <cdate>2023-08-02 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>75</customer_id>
+            <firstname>Antonio</firstname>
+            <lastname>Norton</lastname>
+            <phone_no>8468161172</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>76</contract_no>
+        <cdate>2018-02-06 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>76</customer_id>
+            <firstname>James</firstname>
+            <lastname>Thomas</lastname>
+            <phone_no>9665352988</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>77</contract_no>
+        <cdate>2020-08-23 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>77</customer_id>
+            <firstname>Kathryn</firstname>
+            <lastname>Mitchell</lastname>
+            <phone_no>2532915472</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>78</contract_no>
+        <cdate>2021-02-23 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>78</customer_id>
+            <firstname>Caroline</firstname>
+            <lastname>Molina</lastname>
+            <phone_no>1755847342</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>79</contract_no>
+        <cdate>2021-07-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>79</customer_id>
+            <firstname>Brooke</firstname>
+            <lastname>Good</lastname>
+            <phone_no>4509711876</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>80</contract_no>
+        <cdate>2021-03-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>80</customer_id>
+            <firstname>Holly</firstname>
+            <lastname>Hutchinson</lastname>
+            <phone_no>5810852572</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>81</contract_no>
+        <cdate>2015-10-07 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>81</customer_id>
+            <firstname>Tiffany</firstname>
+            <lastname>Mason</lastname>
+            <phone_no>5775922135</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>82</contract_no>
+        <cdate>2016-01-15 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>82</customer_id>
+            <firstname>Tracy</firstname>
+            <lastname>Kennedy</lastname>
+            <phone_no>5047460798</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>83</contract_no>
+        <cdate>2017-12-04 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>83</customer_id>
+            <firstname>Julie</firstname>
+            <lastname>Wright</lastname>
+            <phone_no>9074958958</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>84</contract_no>
+        <cdate>2021-11-19 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>84</customer_id>
+            <firstname>Linda</firstname>
+            <lastname>Avila</lastname>
+            <phone_no>7759086674</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>85</contract_no>
+        <cdate>2019-08-08 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>85</customer_id>
+            <firstname>Victoria</firstname>
+            <lastname>Coleman</lastname>
+            <phone_no>2672359534</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>86</contract_no>
+        <cdate>2015-06-12 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>86</customer_id>
+            <firstname>Jake</firstname>
+            <lastname>Gregory</lastname>
+            <phone_no>5649141605</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>87</contract_no>
+        <cdate>2016-03-30 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>87</customer_id>
+            <firstname>James</firstname>
+            <lastname>Chan</lastname>
+            <phone_no>1950114797</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>88</contract_no>
+        <cdate>2018-09-03 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>88</customer_id>
+            <firstname>Matthew</firstname>
+            <lastname>Rodriguez</lastname>
+            <phone_no>8823303223</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>89</contract_no>
+        <cdate>2022-10-25 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>89</customer_id>
+            <firstname>Audrey</firstname>
+            <lastname>Bender</lastname>
+            <phone_no>7397236410</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>90</contract_no>
+        <cdate>2023-03-12 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>90</customer_id>
+            <firstname>Robert</firstname>
+            <lastname>Arroyo</lastname>
+            <phone_no>4152818469</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>91</contract_no>
+        <cdate>2019-05-25 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>91</customer_id>
+            <firstname>Melissa</firstname>
+            <lastname>Walls</lastname>
+            <phone_no>7148173690</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>92</contract_no>
+        <cdate>2023-02-01 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>92</customer_id>
+            <firstname>Jennifer</firstname>
+            <lastname>Bautista</lastname>
+            <phone_no>8585348295</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>93</contract_no>
+        <cdate>2017-01-18 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>93</customer_id>
+            <firstname>Daniel</firstname>
+            <lastname>Rogers</lastname>
+            <phone_no>8152010323</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>94</contract_no>
+        <cdate>2015-06-01 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>94</customer_id>
+            <firstname>James</firstname>
+            <lastname>Simon</lastname>
+            <phone_no>6465719346</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>95</contract_no>
+        <cdate>2020-08-30 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>95</customer_id>
+            <firstname>Rhonda</firstname>
+            <lastname>Pratt</lastname>
+            <phone_no>7080103269</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>96</contract_no>
+        <cdate>2023-11-20 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>96</customer_id>
+            <firstname>Justin</firstname>
+            <lastname>Weaver</lastname>
+            <phone_no>6826965613</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>97</contract_no>
+        <cdate>2015-02-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>97</customer_id>
+            <firstname>James</firstname>
+            <lastname>Robles</lastname>
+            <phone_no>3379721496</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>98</contract_no>
+        <cdate>2021-06-05 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>98</customer_id>
+            <firstname>Maria</firstname>
+            <lastname>Bradford</lastname>
+            <phone_no>8344439486</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>99</contract_no>
+        <cdate>2016-03-01 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>99</customer_id>
+            <firstname>Christopher</firstname>
+            <lastname>Colon</lastname>
+            <phone_no>3094314005</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>100</contract_no>
+        <cdate>2022-10-02 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>100</customer_id>
+            <firstname>Joshua</firstname>
+            <lastname>Franklin</lastname>
+            <phone_no>9992142025</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>101</contract_no>
+        <cdate>2022-04-23 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>101</customer_id>
+            <firstname>Karen</firstname>
+            <lastname>Douglas</lastname>
+            <phone_no>9926114029</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>102</contract_no>
+        <cdate>2022-02-27 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>102</customer_id>
+            <firstname>Kimberly</firstname>
+            <lastname>Hawkins</lastname>
+            <phone_no>3004292272</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>103</contract_no>
+        <cdate>2020-02-13 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>103</customer_id>
+            <firstname>David</firstname>
+            <lastname>Brown</lastname>
+            <phone_no>1980858854</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>104</contract_no>
+        <cdate>2023-03-31 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>104</customer_id>
+            <firstname>Rhonda</firstname>
+            <lastname>Morrison</lastname>
+            <phone_no>8025969416</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>105</contract_no>
+        <cdate>2021-09-05 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>105</customer_id>
+            <firstname>Erin</firstname>
+            <lastname>Roberts</lastname>
+            <phone_no>2639809359</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>106</contract_no>
+        <cdate>2016-02-25 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>106</customer_id>
+            <firstname>Katherine</firstname>
+            <lastname>White</lastname>
+            <phone_no>5759727638</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>107</contract_no>
+        <cdate>2020-01-25 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>107</customer_id>
+            <firstname>Cynthia</firstname>
+            <lastname>Baird</lastname>
+            <phone_no>5917712014</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>108</contract_no>
+        <cdate>2015-01-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>108</customer_id>
+            <firstname>Martha</firstname>
+            <lastname>Fisher</lastname>
+            <phone_no>9481701833</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>109</contract_no>
+        <cdate>2017-11-22 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>109</customer_id>
+            <firstname>Amber</firstname>
+            <lastname>Brandt</lastname>
+            <phone_no>2402231771</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>110</contract_no>
+        <cdate>2016-02-08 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>110</customer_id>
+            <firstname>Jacob</firstname>
+            <lastname>Ferguson</lastname>
+            <phone_no>1979074749</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>111</contract_no>
+        <cdate>2016-05-16 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>111</customer_id>
+            <firstname>Kenneth</firstname>
+            <lastname>Morris</lastname>
+            <phone_no>7043206119</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>112</contract_no>
+        <cdate>2019-09-24 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>112</customer_id>
+            <firstname>Alan</firstname>
+            <lastname>Sloan</lastname>
+            <phone_no>1465912851</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>113</contract_no>
+        <cdate>2021-01-31 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>113</customer_id>
+            <firstname>James</firstname>
+            <lastname>Turner</lastname>
+            <phone_no>7620692556</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>114</contract_no>
+        <cdate>2022-09-24 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>114</customer_id>
+            <firstname>Emily</firstname>
+            <lastname>Guzman</lastname>
+            <phone_no>8634348076</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>115</contract_no>
+        <cdate>2019-11-23 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>115</customer_id>
+            <firstname>Michael</firstname>
+            <lastname>Wheeler</lastname>
+            <phone_no>8923509770</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>116</contract_no>
+        <cdate>2016-04-07 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>116</customer_id>
+            <firstname>Sabrina</firstname>
+            <lastname>Downs</lastname>
+            <phone_no>2763302885</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>117</contract_no>
+        <cdate>2015-02-21 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>117</customer_id>
+            <firstname>David</firstname>
+            <lastname>Yates</lastname>
+            <phone_no>3784433085</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>118</contract_no>
+        <cdate>2022-06-07 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>118</customer_id>
+            <firstname>Megan</firstname>
+            <lastname>King</lastname>
+            <phone_no>7590885331</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>119</contract_no>
+        <cdate>2016-02-01 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>119</customer_id>
+            <firstname>Angelica</firstname>
+            <lastname>Weber</lastname>
+            <phone_no>3968142213</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>120</contract_no>
+        <cdate>2017-01-04 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>120</customer_id>
+            <firstname>Amy</firstname>
+            <lastname>Harmon</lastname>
+            <phone_no>4138411211</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>121</contract_no>
+        <cdate>2019-10-31 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>121</customer_id>
+            <firstname>Emily</firstname>
+            <lastname>Riley</lastname>
+            <phone_no>1616933739</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>122</contract_no>
+        <cdate>2022-01-29 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>122</customer_id>
+            <firstname>Mark</firstname>
+            <lastname>Peterson</lastname>
+            <phone_no>6661231255</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>123</contract_no>
+        <cdate>2022-06-01 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>123</customer_id>
+            <firstname>Luke</firstname>
+            <lastname>White</lastname>
+            <phone_no>7454097188</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>124</contract_no>
+        <cdate>2016-03-17 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>124</customer_id>
+            <firstname>James</firstname>
+            <lastname>Dunn</lastname>
+            <phone_no>5161984481</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>125</contract_no>
+        <cdate>2019-03-27 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>125</customer_id>
+            <firstname>Jennifer</firstname>
+            <lastname>Kline</lastname>
+            <phone_no>6568706611</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>126</contract_no>
+        <cdate>2016-01-21 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>126</customer_id>
+            <firstname>Priscilla</firstname>
+            <lastname>Stone</lastname>
+            <phone_no>5544161617</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>127</contract_no>
+        <cdate>2020-04-20 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>127</customer_id>
+            <firstname>Barry</firstname>
+            <lastname>Smith</lastname>
+            <phone_no>7366833170</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>128</contract_no>
+        <cdate>2022-03-27 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>128</customer_id>
+            <firstname>Steven</firstname>
+            <lastname>Roberts</lastname>
+            <phone_no>2471757452</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>129</contract_no>
+        <cdate>2015-10-04 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>129</customer_id>
+            <firstname>Edward</firstname>
+            <lastname>Moore</lastname>
+            <phone_no>3613682532</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>130</contract_no>
+        <cdate>2017-01-25 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>130</customer_id>
+            <firstname>Vanessa</firstname>
+            <lastname>Gonzalez</lastname>
+            <phone_no>2663435264</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>131</contract_no>
+        <cdate>2023-08-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>131</customer_id>
+            <firstname>Brooke</firstname>
+            <lastname>Saunders</lastname>
+            <phone_no>6904087316</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>132</contract_no>
+        <cdate>2022-08-02 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>132</customer_id>
+            <firstname>Julia</firstname>
+            <lastname>Wilson</lastname>
+            <phone_no>6040309840</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>133</contract_no>
+        <cdate>2023-06-16 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>133</customer_id>
+            <firstname>Jeremy</firstname>
+            <lastname>Keller</lastname>
+            <phone_no>9428086004</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>134</contract_no>
+        <cdate>2021-01-28 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>134</customer_id>
+            <firstname>Luis</firstname>
+            <lastname>Smith</lastname>
+            <phone_no>9347474435</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>135</contract_no>
+        <cdate>2018-03-12 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>135</customer_id>
+            <firstname>Emily</firstname>
+            <lastname>Hurley</lastname>
+            <phone_no>2432803440</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>136</contract_no>
+        <cdate>2017-10-17 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>136</customer_id>
+            <firstname>Sabrina</firstname>
+            <lastname>Fry</lastname>
+            <phone_no>8526589739</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>137</contract_no>
+        <cdate>2021-02-08 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>137</customer_id>
+            <firstname>Jessica</firstname>
+            <lastname>Herring</lastname>
+            <phone_no>9207869606</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>138</contract_no>
+        <cdate>2018-12-17 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>138</customer_id>
+            <firstname>Christopher</firstname>
+            <lastname>Larsen</lastname>
+            <phone_no>3089205023</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>139</contract_no>
+        <cdate>2015-02-13 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>139</customer_id>
+            <firstname>Charles</firstname>
+            <lastname>Stark</lastname>
+            <phone_no>4060340807</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>140</contract_no>
+        <cdate>2015-05-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>140</customer_id>
+            <firstname>Colleen</firstname>
+            <lastname>Lopez</lastname>
+            <phone_no>4126677065</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>141</contract_no>
+        <cdate>2020-04-14 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>141</customer_id>
+            <firstname>Mary</firstname>
+            <lastname>Smith</lastname>
+            <phone_no>2599507813</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>142</contract_no>
+        <cdate>2023-04-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>142</customer_id>
+            <firstname>Steven</firstname>
+            <lastname>Richardson</lastname>
+            <phone_no>4403734938</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>143</contract_no>
+        <cdate>2015-12-17 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>143</customer_id>
+            <firstname>Douglas</firstname>
+            <lastname>Pham</lastname>
+            <phone_no>2219245452</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>144</contract_no>
+        <cdate>2018-07-07 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>144</customer_id>
+            <firstname>Brenda</firstname>
+            <lastname>Shelton</lastname>
+            <phone_no>6656175383</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>145</contract_no>
+        <cdate>2016-05-01 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>145</customer_id>
+            <firstname>Jeffrey</firstname>
+            <lastname>Jones</lastname>
+            <phone_no>8985759699</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>146</contract_no>
+        <cdate>2015-07-10 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>146</customer_id>
+            <firstname>Wendy</firstname>
+            <lastname>Hancock</lastname>
+            <phone_no>7108626089</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>147</contract_no>
+        <cdate>2019-02-20 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>147</customer_id>
+            <firstname>Brenda</firstname>
+            <lastname>Gill</lastname>
+            <phone_no>8721943308</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>148</contract_no>
+        <cdate>2018-04-27 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>148</customer_id>
+            <firstname>Steven</firstname>
+            <lastname>Howard</lastname>
+            <phone_no>7672234148</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>149</contract_no>
+        <cdate>2019-07-18 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>149</customer_id>
+            <firstname>Joanne</firstname>
+            <lastname>Lopez</lastname>
+            <phone_no>6566049315</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>150</contract_no>
+        <cdate>2015-04-22 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>150</customer_id>
+            <firstname>Daniel</firstname>
+            <lastname>Randall</lastname>
+            <phone_no>2749815775</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>151</contract_no>
+        <cdate>2016-03-24 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>151</customer_id>
+            <firstname>Bonnie</firstname>
+            <lastname>Perez</lastname>
+            <phone_no>7742226804</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>152</contract_no>
+        <cdate>2023-07-17 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>152</customer_id>
+            <firstname>Anthony</firstname>
+            <lastname>Duncan</lastname>
+            <phone_no>2322626986</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>153</contract_no>
+        <cdate>2023-06-12 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>153</customer_id>
+            <firstname>Miss</firstname>
+            <lastname>Brittany</lastname>
+            <phone_no>1745991112</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>154</contract_no>
+        <cdate>2015-10-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>154</customer_id>
+            <firstname>Hector</firstname>
+            <lastname>Buck</lastname>
+            <phone_no>2910683572</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>155</contract_no>
+        <cdate>2017-06-04 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>155</customer_id>
+            <firstname>Kathleen</firstname>
+            <lastname>Contreras</lastname>
+            <phone_no>1171742566</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>156</contract_no>
+        <cdate>2017-05-30 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>156</customer_id>
+            <firstname>Paul</firstname>
+            <lastname>Johnson</lastname>
+            <phone_no>5674401242</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>157</contract_no>
+        <cdate>2021-04-26 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>157</customer_id>
+            <firstname>Mr.</firstname>
+            <lastname>Alan</lastname>
+            <phone_no>2073757146</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>158</contract_no>
+        <cdate>2015-08-15 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>158</customer_id>
+            <firstname>Brianna</firstname>
+            <lastname>Marquez</lastname>
+            <phone_no>6316231259</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>159</contract_no>
+        <cdate>2015-04-13 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>159</customer_id>
+            <firstname>Amanda</firstname>
+            <lastname>Aguilar</lastname>
+            <phone_no>2236472511</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>160</contract_no>
+        <cdate>2015-08-17 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>160</customer_id>
+            <firstname>Amber</firstname>
+            <lastname>Wilson</lastname>
+            <phone_no>6549867739</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>161</contract_no>
+        <cdate>2023-01-22 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>161</customer_id>
+            <firstname>Carol</firstname>
+            <lastname>Jones</lastname>
+            <phone_no>7277944540</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>162</contract_no>
+        <cdate>2020-10-06 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>162</customer_id>
+            <firstname>Keith</firstname>
+            <lastname>Melendez</lastname>
+            <phone_no>9575218236</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>163</contract_no>
+        <cdate>2023-01-25 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>163</customer_id>
+            <firstname>Chase</firstname>
+            <lastname>Leonard</lastname>
+            <phone_no>6422602267</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>164</contract_no>
+        <cdate>2015-06-29 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>164</customer_id>
+            <firstname>Cameron</firstname>
+            <lastname>Wheeler</lastname>
+            <phone_no>6729730415</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>165</contract_no>
+        <cdate>2021-06-02 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>165</customer_id>
+            <firstname>James</firstname>
+            <lastname>Johnson</lastname>
+            <phone_no>1540533711</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>166</contract_no>
+        <cdate>2020-07-05 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>166</customer_id>
+            <firstname>John</firstname>
+            <lastname>White</lastname>
+            <phone_no>3668641724</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>167</contract_no>
+        <cdate>2021-05-25 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>167</customer_id>
+            <firstname>Gina</firstname>
+            <lastname>Ross</lastname>
+            <phone_no>2705132131</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>168</contract_no>
+        <cdate>2019-06-26 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>168</customer_id>
+            <firstname>James</firstname>
+            <lastname>Campbell</lastname>
+            <phone_no>1312087511</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>169</contract_no>
+        <cdate>2022-09-29 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>169</customer_id>
+            <firstname>Dana</firstname>
+            <lastname>Harvey</lastname>
+            <phone_no>5901622284</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>170</contract_no>
+        <cdate>2018-06-26 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>170</customer_id>
+            <firstname>Kyle</firstname>
+            <lastname>Cordova</lastname>
+            <phone_no>3215022997</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>171</contract_no>
+        <cdate>2017-06-02 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>171</customer_id>
+            <firstname>Cory</firstname>
+            <lastname>Carlson</lastname>
+            <phone_no>1088038748</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>172</contract_no>
+        <cdate>2018-01-28 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>172</customer_id>
+            <firstname>Anita</firstname>
+            <lastname>Petersen</lastname>
+            <phone_no>1344050148</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>173</contract_no>
+        <cdate>2018-08-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>173</customer_id>
+            <firstname>Taylor</firstname>
+            <lastname>Scott</lastname>
+            <phone_no>3471110502</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>174</contract_no>
+        <cdate>2017-11-06 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>174</customer_id>
+            <firstname>Joseph</firstname>
+            <lastname>Warren</lastname>
+            <phone_no>5630296194</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>175</contract_no>
+        <cdate>2015-07-02 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>175</customer_id>
+            <firstname>Douglas</firstname>
+            <lastname>Mason</lastname>
+            <phone_no>5677196906</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>176</contract_no>
+        <cdate>2015-06-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>176</customer_id>
+            <firstname>Brian</firstname>
+            <lastname>Chavez</lastname>
+            <phone_no>9454832874</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>177</contract_no>
+        <cdate>2016-01-19 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>177</customer_id>
+            <firstname>Bill</firstname>
+            <lastname>Green</lastname>
+            <phone_no>9513598616</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>178</contract_no>
+        <cdate>2015-07-25 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>178</customer_id>
+            <firstname>Allison</firstname>
+            <lastname>Carpenter</lastname>
+            <phone_no>8752063423</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>179</contract_no>
+        <cdate>2017-11-25 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>179</customer_id>
+            <firstname>Brett</firstname>
+            <lastname>Allen</lastname>
+            <phone_no>2942350575</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>180</contract_no>
+        <cdate>2016-09-29 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>180</customer_id>
+            <firstname>Andrew</firstname>
+            <lastname>Allen</lastname>
+            <phone_no>3968276506</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>181</contract_no>
+        <cdate>2019-10-18 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>181</customer_id>
+            <firstname>Brent</firstname>
+            <lastname>Hernandez</lastname>
+            <phone_no>1083110614</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>182</contract_no>
+        <cdate>2022-07-30 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>182</customer_id>
+            <firstname>Christopher</firstname>
+            <lastname>Allen</lastname>
+            <phone_no>9078466757</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>183</contract_no>
+        <cdate>2018-02-06 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>183</customer_id>
+            <firstname>Kelly</firstname>
+            <lastname>Pineda</lastname>
+            <phone_no>5367036773</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>184</contract_no>
+        <cdate>2018-12-31 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>184</customer_id>
+            <firstname>Lisa</firstname>
+            <lastname>Dalton</lastname>
+            <phone_no>3416615606</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>185</contract_no>
+        <cdate>2021-05-16 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>185</customer_id>
+            <firstname>Frances</firstname>
+            <lastname>Durham</lastname>
+            <phone_no>6657589033</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>186</contract_no>
+        <cdate>2020-01-24 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>186</customer_id>
+            <firstname>Jordan</firstname>
+            <lastname>Burns</lastname>
+            <phone_no>8933049600</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>187</contract_no>
+        <cdate>2021-03-19 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>187</customer_id>
+            <firstname>Shirley</firstname>
+            <lastname>Torres</lastname>
+            <phone_no>3175464491</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>188</contract_no>
+        <cdate>2015-02-16 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>188</customer_id>
+            <firstname>Theresa</firstname>
+            <lastname>Dudley</lastname>
+            <phone_no>8087951763</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>189</contract_no>
+        <cdate>2023-01-06 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>189</customer_id>
+            <firstname>Jennifer</firstname>
+            <lastname>Porter</lastname>
+            <phone_no>5335431255</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>190</contract_no>
+        <cdate>2017-11-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>190</customer_id>
+            <firstname>Kelly</firstname>
+            <lastname>Hunt</lastname>
+            <phone_no>8638832586</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>191</contract_no>
+        <cdate>2015-06-11 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>191</customer_id>
+            <firstname>Miss</firstname>
+            <lastname>Samantha</lastname>
+            <phone_no>2470730005</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>192</contract_no>
+        <cdate>2016-04-11 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>192</customer_id>
+            <firstname>Eugene</firstname>
+            <lastname>Thompson</lastname>
+            <phone_no>7432267982</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>193</contract_no>
+        <cdate>2019-11-21 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>193</customer_id>
+            <firstname>Sarah</firstname>
+            <lastname>Hall</lastname>
+            <phone_no>6200569286</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>194</contract_no>
+        <cdate>2019-03-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>194</customer_id>
+            <firstname>Jose</firstname>
+            <lastname>Pham</lastname>
+            <phone_no>6740460051</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>195</contract_no>
+        <cdate>2021-08-06 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>195</customer_id>
+            <firstname>Zachary</firstname>
+            <lastname>Smith</lastname>
+            <phone_no>9430564425</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>196</contract_no>
+        <cdate>2019-03-01 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>196</customer_id>
+            <firstname>Kathy</firstname>
+            <lastname>Davidson</lastname>
+            <phone_no>2778757216</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>197</contract_no>
+        <cdate>2018-12-29 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>197</customer_id>
+            <firstname>Christine</firstname>
+            <lastname>Price</lastname>
+            <phone_no>3341908220</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>198</contract_no>
+        <cdate>2016-07-26 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>198</customer_id>
+            <firstname>Victoria</firstname>
+            <lastname>Booth</lastname>
+            <phone_no>3288904993</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>199</contract_no>
+        <cdate>2023-07-17 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>199</customer_id>
+            <firstname>Sandra</firstname>
+            <lastname>Rowe</lastname>
+            <phone_no>4615160461</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>200</contract_no>
+        <cdate>2018-12-10 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>200</customer_id>
+            <firstname>Tracey</firstname>
+            <lastname>Gonzalez</lastname>
+            <phone_no>4297484825</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>201</contract_no>
+        <cdate>2015-02-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>201</customer_id>
+            <firstname>Amber</firstname>
+            <lastname>Allen</lastname>
+            <phone_no>3288404185</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>202</contract_no>
+        <cdate>2018-10-08 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>202</customer_id>
+            <firstname>Mark</firstname>
+            <lastname>Price</lastname>
+            <phone_no>4347784491</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>203</contract_no>
+        <cdate>2018-05-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>203</customer_id>
+            <firstname>Jose</firstname>
+            <lastname>Gonzales</lastname>
+            <phone_no>3198594958</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>204</contract_no>
+        <cdate>2019-11-20 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>204</customer_id>
+            <firstname>Alexander</firstname>
+            <lastname>Gutierrez</lastname>
+            <phone_no>4996442868</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>205</contract_no>
+        <cdate>2018-12-22 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>205</customer_id>
+            <firstname>Joshua</firstname>
+            <lastname>Nelson</lastname>
+            <phone_no>5201848109</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>206</contract_no>
+        <cdate>2015-12-30 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>206</customer_id>
+            <firstname>Chad</firstname>
+            <lastname>Andersen</lastname>
+            <phone_no>2306188759</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>207</contract_no>
+        <cdate>2020-11-02 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>207</customer_id>
+            <firstname>Lauren</firstname>
+            <lastname>Hayden</lastname>
+            <phone_no>1674381551</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>208</contract_no>
+        <cdate>2023-12-21 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>208</customer_id>
+            <firstname>Dean</firstname>
+            <lastname>Simpson</lastname>
+            <phone_no>7280604386</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>209</contract_no>
+        <cdate>2015-01-27 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>209</customer_id>
+            <firstname>Jesse</firstname>
+            <lastname>Freeman</lastname>
+            <phone_no>4036322072</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>210</contract_no>
+        <cdate>2023-08-19 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>210</customer_id>
+            <firstname>Donna</firstname>
+            <lastname>Hall</lastname>
+            <phone_no>3881960365</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>211</contract_no>
+        <cdate>2020-11-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>211</customer_id>
+            <firstname>Cindy</firstname>
+            <lastname>Smith</lastname>
+            <phone_no>4827195173</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>212</contract_no>
+        <cdate>2022-07-04 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>212</customer_id>
+            <firstname>Bryan</firstname>
+            <lastname>Smith</lastname>
+            <phone_no>9986883095</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>213</contract_no>
+        <cdate>2021-01-09 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>213</customer_id>
+            <firstname>Brittany</firstname>
+            <lastname>Hurley</lastname>
+            <phone_no>8746608421</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>214</contract_no>
+        <cdate>2022-04-15 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>214</customer_id>
+            <firstname>Mike</firstname>
+            <lastname>Bennett</lastname>
+            <phone_no>9149489566</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>215</contract_no>
+        <cdate>2015-03-24 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>215</customer_id>
+            <firstname>James</firstname>
+            <lastname>Hester</lastname>
+            <phone_no>8588606697</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>216</contract_no>
+        <cdate>2015-04-30 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>216</customer_id>
+            <firstname>Juan</firstname>
+            <lastname>Tapia</lastname>
+            <phone_no>2324452415</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>217</contract_no>
+        <cdate>2020-06-08 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>217</customer_id>
+            <firstname>Tracy</firstname>
+            <lastname>Erickson</lastname>
+            <phone_no>4662024467</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>218</contract_no>
+        <cdate>2023-01-17 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>218</customer_id>
+            <firstname>Natasha</firstname>
+            <lastname>Flores</lastname>
+            <phone_no>3639265037</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>219</contract_no>
+        <cdate>2017-06-19 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>219</customer_id>
+            <firstname>Matthew</firstname>
+            <lastname>Jones</lastname>
+            <phone_no>3646363863</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>220</contract_no>
+        <cdate>2020-09-08 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>220</customer_id>
+            <firstname>Mark</firstname>
+            <lastname>Campbell</lastname>
+            <phone_no>2717889421</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>221</contract_no>
+        <cdate>2016-03-15 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>221</customer_id>
+            <firstname>Jorge</firstname>
+            <lastname>Williams</lastname>
+            <phone_no>9425298875</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>222</contract_no>
+        <cdate>2021-03-17 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>222</customer_id>
+            <firstname>Michele</firstname>
+            <lastname>Koch</lastname>
+            <phone_no>3743594010</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>223</contract_no>
+        <cdate>2023-12-04 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>223</customer_id>
+            <firstname>Christopher</firstname>
+            <lastname>Mendoza</lastname>
+            <phone_no>7057062738</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>224</contract_no>
+        <cdate>2021-11-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>224</customer_id>
+            <firstname>Joseph</firstname>
+            <lastname>Conrad</lastname>
+            <phone_no>9372584429</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>225</contract_no>
+        <cdate>2016-12-17 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>225</customer_id>
+            <firstname>Michelle</firstname>
+            <lastname>Reed</lastname>
+            <phone_no>9924397396</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>226</contract_no>
+        <cdate>2016-06-02 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>226</customer_id>
+            <firstname>Paul</firstname>
+            <lastname>Mccall</lastname>
+            <phone_no>7930323728</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>227</contract_no>
+        <cdate>2023-11-07 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>227</customer_id>
+            <firstname>Damon</firstname>
+            <lastname>Barnett</lastname>
+            <phone_no>5123299356</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>228</contract_no>
+        <cdate>2016-07-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>228</customer_id>
+            <firstname>Jacob</firstname>
+            <lastname>Flowers</lastname>
+            <phone_no>6584493650</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>229</contract_no>
+        <cdate>2023-08-07 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>229</customer_id>
+            <firstname>Brandon</firstname>
+            <lastname>Estrada</lastname>
+            <phone_no>6210241686</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>230</contract_no>
+        <cdate>2022-11-17 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>230</customer_id>
+            <firstname>Amanda</firstname>
+            <lastname>Jones</lastname>
+            <phone_no>4638526846</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>231</contract_no>
+        <cdate>2022-08-06 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>231</customer_id>
+            <firstname>Susan</firstname>
+            <lastname>Moore</lastname>
+            <phone_no>3746494132</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>232</contract_no>
+        <cdate>2018-08-10 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>232</customer_id>
+            <firstname>Joseph</firstname>
+            <lastname>Coleman</lastname>
+            <phone_no>2465448231</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>233</contract_no>
+        <cdate>2021-05-14 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>233</customer_id>
+            <firstname>Karen</firstname>
+            <lastname>Howard</lastname>
+            <phone_no>8642264350</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>234</contract_no>
+        <cdate>2015-09-13 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>234</customer_id>
+            <firstname>Mrs.</firstname>
+            <lastname>Elizabeth</lastname>
+            <phone_no>1844807920</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>235</contract_no>
+        <cdate>2020-07-11 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>235</customer_id>
+            <firstname>Anita</firstname>
+            <lastname>Hernandez</lastname>
+            <phone_no>5385175461</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>236</contract_no>
+        <cdate>2015-04-17 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>236</customer_id>
+            <firstname>Sarah</firstname>
+            <lastname>Martin</lastname>
+            <phone_no>7884654358</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>237</contract_no>
+        <cdate>2016-10-29 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>237</customer_id>
+            <firstname>Amy</firstname>
+            <lastname>Gonzalez</lastname>
+            <phone_no>6803990309</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>238</contract_no>
+        <cdate>2019-09-12 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>238</customer_id>
+            <firstname>Sheila</firstname>
+            <lastname>Atkins</lastname>
+            <phone_no>1895167331</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>239</contract_no>
+        <cdate>2015-09-24 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>239</customer_id>
+            <firstname>Dr.</firstname>
+            <lastname>Brittany</lastname>
+            <phone_no>3829892646</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>240</contract_no>
+        <cdate>2022-08-06 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>240</customer_id>
+            <firstname>Janet</firstname>
+            <lastname>Mendoza</lastname>
+            <phone_no>4498894577</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>241</contract_no>
+        <cdate>2023-08-08 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>241</customer_id>
+            <firstname>Brenda</firstname>
+            <lastname>Wyatt</lastname>
+            <phone_no>1768240090</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>242</contract_no>
+        <cdate>2018-02-10 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>242</customer_id>
+            <firstname>Christina</firstname>
+            <lastname>Porter</lastname>
+            <phone_no>7663249080</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>243</contract_no>
+        <cdate>2018-08-31 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>243</customer_id>
+            <firstname>Heather</firstname>
+            <lastname>Powers</lastname>
+            <phone_no>1108299087</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>244</contract_no>
+        <cdate>2023-04-22 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>244</customer_id>
+            <firstname>Frances</firstname>
+            <lastname>Dominguez</lastname>
+            <phone_no>1280666601</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>245</contract_no>
+        <cdate>2017-03-14 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>245</customer_id>
+            <firstname>Vanessa</firstname>
+            <lastname>Flowers</lastname>
+            <phone_no>6141011325</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>246</contract_no>
+        <cdate>2019-10-11 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>246</customer_id>
+            <firstname>Charles</firstname>
+            <lastname>Morrison</lastname>
+            <phone_no>2041521001</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>247</contract_no>
+        <cdate>2022-01-06 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>247</customer_id>
+            <firstname>Matthew</firstname>
+            <lastname>Long</lastname>
+            <phone_no>8311176178</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>248</contract_no>
+        <cdate>2016-05-11 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>248</customer_id>
+            <firstname>Alex</firstname>
+            <lastname>Bradford</lastname>
+            <phone_no>6496940980</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>249</contract_no>
+        <cdate>2018-04-19 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>249</customer_id>
+            <firstname>Tasha</firstname>
+            <lastname>Cline</lastname>
+            <phone_no>8898354499</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>250</contract_no>
+        <cdate>2020-05-03 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>250</customer_id>
+            <firstname>Jennifer</firstname>
+            <lastname>Webster</lastname>
+            <phone_no>9169158880</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>251</contract_no>
+        <cdate>2023-06-02 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>251</customer_id>
+            <firstname>William</firstname>
+            <lastname>Gallegos</lastname>
+            <phone_no>1178715402</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>252</contract_no>
+        <cdate>2023-01-21 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>252</customer_id>
+            <firstname>Alexandria</firstname>
+            <lastname>Robinson</lastname>
+            <phone_no>4969729218</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>253</contract_no>
+        <cdate>2015-05-15 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>253</customer_id>
+            <firstname>Andrea</firstname>
+            <lastname>Taylor</lastname>
+            <phone_no>4293886746</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>254</contract_no>
+        <cdate>2020-10-28 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>254</customer_id>
+            <firstname>Dr.</firstname>
+            <lastname>Carlos</lastname>
+            <phone_no>8057144110</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>255</contract_no>
+        <cdate>2022-11-02 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>255</customer_id>
+            <firstname>Johnathan</firstname>
+            <lastname>Christensen</lastname>
+            <phone_no>9188571108</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>256</contract_no>
+        <cdate>2016-09-22 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>256</customer_id>
+            <firstname>Christopher</firstname>
+            <lastname>Montgomery</lastname>
+            <phone_no>3894774793</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>257</contract_no>
+        <cdate>2018-12-05 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>257</customer_id>
+            <firstname>Jeffrey</firstname>
+            <lastname>Gibson</lastname>
+            <phone_no>3510440788</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>258</contract_no>
+        <cdate>2019-03-05 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>258</customer_id>
+            <firstname>Renee</firstname>
+            <lastname>Boone</lastname>
+            <phone_no>9143152715</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>259</contract_no>
+        <cdate>2015-03-22 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>259</customer_id>
+            <firstname>Albert</firstname>
+            <lastname>Hanson</lastname>
+            <phone_no>6221721198</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>260</contract_no>
+        <cdate>2018-07-14 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>260</customer_id>
+            <firstname>Kyle</firstname>
+            <lastname>Williams</lastname>
+            <phone_no>7549423038</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>261</contract_no>
+        <cdate>2020-07-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>261</customer_id>
+            <firstname>Karen</firstname>
+            <lastname>Harris</lastname>
+            <phone_no>1753249297</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>262</contract_no>
+        <cdate>2015-07-05 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>262</customer_id>
+            <firstname>Leonard</firstname>
+            <lastname>Vazquez</lastname>
+            <phone_no>8349310176</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>263</contract_no>
+        <cdate>2021-01-29 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>263</customer_id>
+            <firstname>Eric</firstname>
+            <lastname>Ramos</lastname>
+            <phone_no>1398582243</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>264</contract_no>
+        <cdate>2017-10-25 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>264</customer_id>
+            <firstname>Richard</firstname>
+            <lastname>Acevedo</lastname>
+            <phone_no>9285055978</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>265</contract_no>
+        <cdate>2017-07-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>265</customer_id>
+            <firstname>William</firstname>
+            <lastname>Sanchez</lastname>
+            <phone_no>6905873205</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>266</contract_no>
+        <cdate>2022-10-28 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>266</customer_id>
+            <firstname>Dr.</firstname>
+            <lastname>Teresa</lastname>
+            <phone_no>3382349464</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>267</contract_no>
+        <cdate>2019-04-19 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>267</customer_id>
+            <firstname>Joseph</firstname>
+            <lastname>Adams</lastname>
+            <phone_no>9047713834</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>268</contract_no>
+        <cdate>2018-05-11 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>268</customer_id>
+            <firstname>Kenneth</firstname>
+            <lastname>Jimenez</lastname>
+            <phone_no>6654426183</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>269</contract_no>
+        <cdate>2021-06-24 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>269</customer_id>
+            <firstname>Tom</firstname>
+            <lastname>Barker</lastname>
+            <phone_no>4695216508</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>270</contract_no>
+        <cdate>2021-12-18 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>270</customer_id>
+            <firstname>Michelle</firstname>
+            <lastname>Wright</lastname>
+            <phone_no>2641249853</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>271</contract_no>
+        <cdate>2020-06-05 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>271</customer_id>
+            <firstname>John</firstname>
+            <lastname>Zuniga</lastname>
+            <phone_no>2359675409</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>272</contract_no>
+        <cdate>2020-07-31 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>272</customer_id>
+            <firstname>Kevin</firstname>
+            <lastname>Morrow</lastname>
+            <phone_no>7482389525</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>273</contract_no>
+        <cdate>2018-05-15 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>273</customer_id>
+            <firstname>Christopher</firstname>
+            <lastname>Thompson</lastname>
+            <phone_no>1642617452</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>274</contract_no>
+        <cdate>2022-07-20 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>274</customer_id>
+            <firstname>Brandy</firstname>
+            <lastname>Lee</lastname>
+            <phone_no>2350075533</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>275</contract_no>
+        <cdate>2017-02-21 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>275</customer_id>
+            <firstname>Shawn</firstname>
+            <lastname>Garcia</lastname>
+            <phone_no>2566874336</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>276</contract_no>
+        <cdate>2017-04-15 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>276</customer_id>
+            <firstname>Ann</firstname>
+            <lastname>Page</lastname>
+            <phone_no>5958089456</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>277</contract_no>
+        <cdate>2019-10-31 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>277</customer_id>
+            <firstname>Raymond</firstname>
+            <lastname>Taylor</lastname>
+            <phone_no>6741850074</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>278</contract_no>
+        <cdate>2020-02-09 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>278</customer_id>
+            <firstname>John</firstname>
+            <lastname>Howard</lastname>
+            <phone_no>8065133875</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>279</contract_no>
+        <cdate>2021-02-05 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>279</customer_id>
+            <firstname>Lisa</firstname>
+            <lastname>Fernandez</lastname>
+            <phone_no>6367711010</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>280</contract_no>
+        <cdate>2020-12-26 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>280</customer_id>
+            <firstname>Cindy</firstname>
+            <lastname>Bailey</lastname>
+            <phone_no>3598287548</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>281</contract_no>
+        <cdate>2022-01-17 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>281</customer_id>
+            <firstname>Robert</firstname>
+            <lastname>Williams</lastname>
+            <phone_no>4288559421</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>282</contract_no>
+        <cdate>2021-01-21 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>282</customer_id>
+            <firstname>Timothy</firstname>
+            <lastname>Ortiz</lastname>
+            <phone_no>3226616597</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>283</contract_no>
+        <cdate>2016-11-22 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>3</service_no>
+            <price>1200</price>
+            <name>Replace air filter</name>
+        </service>
+        <customer>
+            <customer_id>283</customer_id>
+            <firstname>Robert</firstname>
+            <lastname>Monroe</lastname>
+            <phone_no>3909796552</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>284</contract_no>
+        <cdate>2017-12-30 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>284</customer_id>
+            <firstname>Dale</firstname>
+            <lastname>Smith</lastname>
+            <phone_no>1820624715</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>285</contract_no>
+        <cdate>2018-08-30 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>9</service_no>
+            <price>1300</price>
+            <name>Engine tune-up</name>
+        </service>
+        <customer>
+            <customer_id>285</customer_id>
+            <firstname>Robert</firstname>
+            <lastname>Jones</lastname>
+            <phone_no>4689693768</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>286</contract_no>
+        <cdate>2018-09-13 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>286</customer_id>
+            <firstname>Joseph</firstname>
+            <lastname>Castro</lastname>
+            <phone_no>9952303086</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>287</contract_no>
+        <cdate>2022-12-19 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>5</service_no>
+            <price>5650</price>
+            <name>New tires</name>
+        </service>
+        <customer>
+            <customer_id>287</customer_id>
+            <firstname>Sheri</firstname>
+            <lastname>Wright</lastname>
+            <phone_no>9276664768</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>288</contract_no>
+        <cdate>2020-03-08 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>288</customer_id>
+            <firstname>Taylor</firstname>
+            <lastname>Murray</lastname>
+            <phone_no>2024569419</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>289</contract_no>
+        <cdate>2021-03-21 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>289</customer_id>
+            <firstname>Jennifer</firstname>
+            <lastname>Murray</lastname>
+            <phone_no>2997462538</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>290</contract_no>
+        <cdate>2015-09-06 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>290</customer_id>
+            <firstname>Tammie</firstname>
+            <lastname>Allen</lastname>
+            <phone_no>5674041441</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>291</contract_no>
+        <cdate>2017-02-27 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>4</service_no>
+            <price>2600</price>
+            <name>Scheduled maintenance</name>
+        </service>
+        <customer>
+            <customer_id>291</customer_id>
+            <firstname>Eric</firstname>
+            <lastname>Wilson</lastname>
+            <phone_no>4728669686</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>292</contract_no>
+        <cdate>2022-12-24 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>1</service_no>
+            <price>3400</price>
+            <name>Oil/oil filter change</name>
+        </service>
+        <customer>
+            <customer_id>292</customer_id>
+            <firstname>Samuel</firstname>
+            <lastname>Velez</lastname>
+            <phone_no>4990715643</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>293</contract_no>
+        <cdate>2019-10-19 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>8</service_no>
+            <price>20000</price>
+            <name>Antifreeze added</name>
+        </service>
+        <customer>
+            <customer_id>293</customer_id>
+            <firstname>Susan</firstname>
+            <lastname>Bartlett</lastname>
+            <phone_no>4091210618</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>294</contract_no>
+        <cdate>2023-09-30 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>294</customer_id>
+            <firstname>Sandra</firstname>
+            <lastname>Sullivan</lastname>
+            <phone_no>8619307043</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>295</contract_no>
+        <cdate>2015-03-18 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>10</service_no>
+            <price>6900</price>
+            <name>Wheels aligned/balanced</name>
+        </service>
+        <customer>
+            <customer_id>295</customer_id>
+            <firstname>Allison</firstname>
+            <lastname>Jackson</lastname>
+            <phone_no>4816954188</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>296</contract_no>
+        <cdate>2021-01-01 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>296</customer_id>
+            <firstname>Kayla</firstname>
+            <lastname>Fields</lastname>
+            <phone_no>1688399657</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>297</contract_no>
+        <cdate>2022-03-17 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>7</service_no>
+            <price>9200</price>
+            <name>Brake work</name>
+        </service>
+        <customer>
+            <customer_id>297</customer_id>
+            <firstname>Frank</firstname>
+            <lastname>Thompson</lastname>
+            <phone_no>2077307648</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>298</contract_no>
+        <cdate>2022-12-23 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>298</customer_id>
+            <firstname>Ashley</firstname>
+            <lastname>Hood</lastname>
+            <phone_no>3519221408</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>299</contract_no>
+        <cdate>2016-09-25 00:00:00</cdate>
+        <payment_info>Credit</payment_info>
+        <service>
+            <service_no>6</service_no>
+            <price>8600</price>
+            <name>Battery replacement</name>
+        </service>
+        <customer>
+            <customer_id>299</customer_id>
+            <firstname>Jonathan</firstname>
+            <lastname>Johnson</lastname>
+            <phone_no>3387320181</phone_no>
+        </customer>
+    </contract>
+
+
+    <contract>
+        <contract_no>300</contract_no>
+        <cdate>2016-12-18 00:00:00</cdate>
+        <payment_info>Cash</payment_info>
+        <service>
+            <service_no>2</service_no>
+            <price>8800</price>
+            <name>Wiper blades replacement</name>
+        </service>
+        <customer>
+            <customer_id>300</customer_id>
+            <firstname>Stanley</firstname>
+            <lastname>Zhang</lastname>
+            <phone_no>7959990818</phone_no>
+        </customer>
+    </contract>
+</contracts>

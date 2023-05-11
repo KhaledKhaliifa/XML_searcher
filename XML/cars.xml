@@ -1,0 +1,3751 @@
+<cars>
+    <car>
+        <vehicle_id>1</vehicle_id>
+        <model>Toyota</model>
+        <price>294807</price>
+        <contract_no>1</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>45412</odometer>
+            <year>2022-03-24 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>2</vehicle_id>
+        <model>Kia</model>
+        <price>412919</price>
+        <contract_no>2</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2021-03-31 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>3</vehicle_id>
+        <model>Ford</model>
+        <price>321185</price>
+        <contract_no>3</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>36797</odometer>
+            <year>2017-07-26 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>4</vehicle_id>
+        <model>Toyota</model>
+        <price>140578</price>
+        <contract_no>4</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>47065</odometer>
+            <year>2022-12-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>5</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>225821</price>
+        <contract_no>5</contract_no>
+        <color>Black</color>
+        <type name="new">
+            <year>2022-04-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>6</vehicle_id>
+        <model>BMW</model>
+        <price>474086</price>
+        <contract_no>6</contract_no>
+        <color>Green</color>
+        <type name="used">
+            <odometer>43848</odometer>
+            <year>2019-06-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>7</vehicle_id>
+        <model>Tesla</model>
+        <price>330078</price>
+        <contract_no>7</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2021-09-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>8</vehicle_id>
+        <model>Audi</model>
+        <price>277501</price>
+        <contract_no>8</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>39202</odometer>
+            <year>2019-03-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>9</vehicle_id>
+        <model>Mazda</model>
+        <price>416499</price>
+        <contract_no>9</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>48486</odometer>
+            <year>2019-10-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>10</vehicle_id>
+        <model>Toyota</model>
+        <price>163519</price>
+        <contract_no>10</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2022-03-04 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>11</vehicle_id>
+        <model>Volvo</model>
+        <price>397126</price>
+        <contract_no>11</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>25423</odometer>
+            <year>2012-03-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>12</vehicle_id>
+        <model>Land Rover</model>
+        <price>478788</price>
+        <contract_no>12</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>27386</odometer>
+            <year>2014-12-11 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>13</vehicle_id>
+        <model>Audi</model>
+        <price>440208</price>
+        <contract_no>13</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2022-11-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>14</vehicle_id>
+        <model>BMW</model>
+        <price>268713</price>
+        <contract_no>14</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2022-08-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>15</vehicle_id>
+        <model>Volvo</model>
+        <price>290047</price>
+        <contract_no>15</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>28788</odometer>
+            <year>2015-04-21 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>16</vehicle_id>
+        <model>Kia</model>
+        <price>414136</price>
+        <contract_no>16</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2020-01-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>17</vehicle_id>
+        <model>Land Rover</model>
+        <price>353154</price>
+        <contract_no>17</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>37266</odometer>
+            <year>2013-06-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>18</vehicle_id>
+        <model>Jeep</model>
+        <price>399448</price>
+        <contract_no>18</contract_no>
+        <color>Electric Blue</color>
+        <type name="used">
+            <odometer>43411</odometer>
+            <year>2022-11-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>19</vehicle_id>
+        <model>Hyundai</model>
+        <price>175185</price>
+        <contract_no>19</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>38595</odometer>
+            <year>2016-08-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>20</vehicle_id>
+        <model>BMW</model>
+        <price>311111</price>
+        <contract_no>20</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>43506</odometer>
+            <year>2014-10-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>21</vehicle_id>
+        <model>Jeep</model>
+        <price>212770</price>
+        <contract_no>21</contract_no>
+        <color>Red</color>
+        <type name="new">
+            <year>2020-08-22 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>22</vehicle_id>
+        <model>Audi</model>
+        <price>406293</price>
+        <contract_no>22</contract_no>
+        <color>Black</color>
+        <type name="new">
+            <year>2020-11-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>23</vehicle_id>
+        <model>Jeep</model>
+        <price>449811</price>
+        <contract_no>23</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2022-11-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>24</vehicle_id>
+        <model>Toyota</model>
+        <price>360639</price>
+        <contract_no>24</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>49047</odometer>
+            <year>2020-08-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>25</vehicle_id>
+        <model>Ford</model>
+        <price>162829</price>
+        <contract_no>25</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2020-04-17 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>26</vehicle_id>
+        <model>Subaru</model>
+        <price>401063</price>
+        <contract_no>26</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2023-02-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>27</vehicle_id>
+        <model>Land Rover</model>
+        <price>340025</price>
+        <contract_no>27</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2022-06-19 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>28</vehicle_id>
+        <model>Hyundai</model>
+        <price>200637</price>
+        <contract_no>28</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>43534</odometer>
+            <year>2021-06-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>29</vehicle_id>
+        <model>Honda</model>
+        <price>186482</price>
+        <contract_no>29</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>25738</odometer>
+            <year>2017-05-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>30</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>234141</price>
+        <contract_no>30</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>29846</odometer>
+            <year>2019-02-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>31</vehicle_id>
+        <model>Tesla</model>
+        <price>195010</price>
+        <contract_no>31</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>41755</odometer>
+            <year>2021-09-11 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>32</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>391024</price>
+        <contract_no>32</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>23442</odometer>
+            <year>2016-05-08 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>33</vehicle_id>
+        <model>Tesla</model>
+        <price>396253</price>
+        <contract_no>33</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>10065</odometer>
+            <year>2016-11-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>34</vehicle_id>
+        <model>Chrysler</model>
+        <price>467342</price>
+        <contract_no>34</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2021-04-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>35</vehicle_id>
+        <model>Chrysler</model>
+        <price>165876</price>
+        <contract_no>35</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>25704</odometer>
+            <year>2014-01-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>36</vehicle_id>
+        <model>Audi</model>
+        <price>313481</price>
+        <contract_no>36</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2023-08-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>37</vehicle_id>
+        <model>BMW</model>
+        <price>357542</price>
+        <contract_no>37</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>20115</odometer>
+            <year>2020-09-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>38</vehicle_id>
+        <model>Ford</model>
+        <price>357687</price>
+        <contract_no>38</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2023-04-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>39</vehicle_id>
+        <model>BMW</model>
+        <price>421644</price>
+        <contract_no>39</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2021-11-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>40</vehicle_id>
+        <model>BMW</model>
+        <price>304658</price>
+        <contract_no>40</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2020-09-08 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>41</vehicle_id>
+        <model>Jeep</model>
+        <price>267312</price>
+        <contract_no>41</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>34223</odometer>
+            <year>2020-09-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>42</vehicle_id>
+        <model>Toyota</model>
+        <price>334201</price>
+        <contract_no>42</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>22264</odometer>
+            <year>2018-05-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>43</vehicle_id>
+        <model>Nissan</model>
+        <price>264540</price>
+        <contract_no>43</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>26959</odometer>
+            <year>2013-09-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>44</vehicle_id>
+        <model>Jeep</model>
+        <price>322236</price>
+        <contract_no>44</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2022-07-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>45</vehicle_id>
+        <model>Honda</model>
+        <price>307459</price>
+        <contract_no>45</contract_no>
+        <color>Electric Blue</color>
+        <type name="used">
+            <odometer>49911</odometer>
+            <year>2018-01-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>46</vehicle_id>
+        <model>BMW</model>
+        <price>316453</price>
+        <contract_no>46</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>45703</odometer>
+            <year>2017-07-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>47</vehicle_id>
+        <model>Mazda</model>
+        <price>409653</price>
+        <contract_no>47</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>14035</odometer>
+            <year>2018-11-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>48</vehicle_id>
+        <model>BMW</model>
+        <price>278341</price>
+        <contract_no>48</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>48582</odometer>
+            <year>2016-06-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>49</vehicle_id>
+        <model>Dodge</model>
+        <price>484479</price>
+        <contract_no>49</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>25043</odometer>
+            <year>2012-12-26 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>50</vehicle_id>
+        <model>Lexus</model>
+        <price>106634</price>
+        <contract_no>50</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2021-11-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>51</vehicle_id>
+        <model>Infiniti</model>
+        <price>378416</price>
+        <contract_no>51</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>21696</odometer>
+            <year>2012-09-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>52</vehicle_id>
+        <model>Dodge</model>
+        <price>238406</price>
+        <contract_no>52</contract_no>
+        <color>Electric Blue</color>
+        <type name="used">
+            <odometer>26182</odometer>
+            <year>2013-04-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>53</vehicle_id>
+        <model>Infiniti</model>
+        <price>326096</price>
+        <contract_no>53</contract_no>
+        <color>Electric Blue</color>
+        <type name="used">
+            <odometer>38504</odometer>
+            <year>2017-06-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>54</vehicle_id>
+        <model>Subaru</model>
+        <price>248182</price>
+        <contract_no>54</contract_no>
+        <color>Grey</color>
+        <type name="new">
+            <year>2022-03-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>55</vehicle_id>
+        <model>Infiniti</model>
+        <price>118351</price>
+        <contract_no>55</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2020-01-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>56</vehicle_id>
+        <model>Land Rover</model>
+        <price>189735</price>
+        <contract_no>56</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2021-07-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>57</vehicle_id>
+        <model>Nissan</model>
+        <price>460632</price>
+        <contract_no>57</contract_no>
+        <color>Pink</color>
+        <type name="used">
+            <odometer>42614</odometer>
+            <year>2013-05-24 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>58</vehicle_id>
+        <model>Land Rover</model>
+        <price>388205</price>
+        <contract_no>58</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2021-09-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>59</vehicle_id>
+        <model>Kia</model>
+        <price>142976</price>
+        <contract_no>59</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>11166</odometer>
+            <year>2015-07-24 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>60</vehicle_id>
+        <model>Nissan</model>
+        <price>453227</price>
+        <contract_no>60</contract_no>
+        <color>Silver</color>
+        <type name="new">
+            <year>2021-06-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>61</vehicle_id>
+        <model>Dodge</model>
+        <price>258951</price>
+        <contract_no>61</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2022-07-04 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>62</vehicle_id>
+        <model>Nissan</model>
+        <price>264069</price>
+        <contract_no>62</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>15312</odometer>
+            <year>2022-11-26 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>63</vehicle_id>
+        <model>Tesla</model>
+        <price>145300</price>
+        <contract_no>63</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2020-06-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>64</vehicle_id>
+        <model>Volvo</model>
+        <price>362950</price>
+        <contract_no>64</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2020-08-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>65</vehicle_id>
+        <model>Nissan</model>
+        <price>475792</price>
+        <contract_no>65</contract_no>
+        <color>Pink</color>
+        <type name="used">
+            <odometer>47907</odometer>
+            <year>2012-02-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>66</vehicle_id>
+        <model>Mazda</model>
+        <price>173363</price>
+        <contract_no>66</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2021-05-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>67</vehicle_id>
+        <model>Audi</model>
+        <price>159390</price>
+        <contract_no>67</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>49967</odometer>
+            <year>2014-10-21 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>68</vehicle_id>
+        <model>Chevrolet</model>
+        <price>319812</price>
+        <contract_no>68</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2023-03-11 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>69</vehicle_id>
+        <model>Kia</model>
+        <price>223064</price>
+        <contract_no>69</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2023-06-17 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>70</vehicle_id>
+        <model>BMW</model>
+        <price>489715</price>
+        <contract_no>70</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>40106</odometer>
+            <year>2015-09-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>71</vehicle_id>
+        <model>Volvo</model>
+        <price>120324</price>
+        <contract_no>71</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>15788</odometer>
+            <year>2017-02-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>72</vehicle_id>
+        <model>Subaru</model>
+        <price>107906</price>
+        <contract_no>72</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>26210</odometer>
+            <year>2019-05-17 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>73</vehicle_id>
+        <model>Audi</model>
+        <price>330497</price>
+        <contract_no>73</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>34215</odometer>
+            <year>2015-06-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>74</vehicle_id>
+        <model>Jeep</model>
+        <price>138474</price>
+        <contract_no>74</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>31500</odometer>
+            <year>2017-01-21 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>75</vehicle_id>
+        <model>Ford</model>
+        <price>121375</price>
+        <contract_no>75</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>43737</odometer>
+            <year>2019-10-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>76</vehicle_id>
+        <model>Dodge</model>
+        <price>274212</price>
+        <contract_no>76</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2023-01-26 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>77</vehicle_id>
+        <model>Kia</model>
+        <price>498092</price>
+        <contract_no>77</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2023-08-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>78</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>395152</price>
+        <contract_no>78</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>49284</odometer>
+            <year>2019-08-22 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>79</vehicle_id>
+        <model>Infiniti</model>
+        <price>365336</price>
+        <contract_no>79</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>27399</odometer>
+            <year>2018-08-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>80</vehicle_id>
+        <model>Nissan</model>
+        <price>113107</price>
+        <contract_no>80</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>35027</odometer>
+            <year>2020-10-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>81</vehicle_id>
+        <model>Infiniti</model>
+        <price>330247</price>
+        <contract_no>81</contract_no>
+        <color>Silver</color>
+        <type name="new">
+            <year>2023-05-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>82</vehicle_id>
+        <model>Infiniti</model>
+        <price>170409</price>
+        <contract_no>82</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>19839</odometer>
+            <year>2017-02-17 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>83</vehicle_id>
+        <model>Toyota</model>
+        <price>342055</price>
+        <contract_no>83</contract_no>
+        <color>Grey</color>
+        <type name="new">
+            <year>2021-05-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>84</vehicle_id>
+        <model>Mazda</model>
+        <price>260635</price>
+        <contract_no>84</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2022-09-16 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>85</vehicle_id>
+        <model>Chrysler</model>
+        <price>112111</price>
+        <contract_no>85</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2023-08-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>86</vehicle_id>
+        <model>Kia</model>
+        <price>304092</price>
+        <contract_no>86</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2023-12-29 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>87</vehicle_id>
+        <model>Chevrolet</model>
+        <price>139250</price>
+        <contract_no>87</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>38047</odometer>
+            <year>2013-08-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>88</vehicle_id>
+        <model>Mazda</model>
+        <price>491764</price>
+        <contract_no>88</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2022-12-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>89</vehicle_id>
+        <model>Tesla</model>
+        <price>298483</price>
+        <contract_no>89</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2020-10-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>90</vehicle_id>
+        <model>Chevrolet</model>
+        <price>273121</price>
+        <contract_no>90</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2020-09-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>91</vehicle_id>
+        <model>Ford</model>
+        <price>397807</price>
+        <contract_no>91</contract_no>
+        <color>Pink</color>
+        <type name="used">
+            <odometer>48167</odometer>
+            <year>2016-01-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>92</vehicle_id>
+        <model>Ford</model>
+        <price>306971</price>
+        <contract_no>92</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2021-10-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>93</vehicle_id>
+        <model>Honda</model>
+        <price>352713</price>
+        <contract_no>93</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>36396</odometer>
+            <year>2016-03-31 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>94</vehicle_id>
+        <model>Chrysler</model>
+        <price>163448</price>
+        <contract_no>94</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>38537</odometer>
+            <year>2016-10-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>95</vehicle_id>
+        <model>Ford</model>
+        <price>378503</price>
+        <contract_no>95</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>10974</odometer>
+            <year>2020-07-26 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>96</vehicle_id>
+        <model>Audi</model>
+        <price>341334</price>
+        <contract_no>96</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>27329</odometer>
+            <year>2017-06-17 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>97</vehicle_id>
+        <model>Jeep</model>
+        <price>258678</price>
+        <contract_no>97</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2022-08-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>98</vehicle_id>
+        <model>Subaru</model>
+        <price>292649</price>
+        <contract_no>98</contract_no>
+        <color>Pink</color>
+        <type name="used">
+            <odometer>21988</odometer>
+            <year>2018-02-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>99</vehicle_id>
+        <model>Tesla</model>
+        <price>432631</price>
+        <contract_no>99</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2023-03-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>100</vehicle_id>
+        <model>Hyundai</model>
+        <price>496351</price>
+        <contract_no>100</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2020-10-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>101</vehicle_id>
+        <model>Ford</model>
+        <price>295279</price>
+        <contract_no>101</contract_no>
+        <color>Black</color>
+        <type name="new">
+            <year>2020-03-31 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>102</vehicle_id>
+        <model>Jeep</model>
+        <price>406333</price>
+        <contract_no>102</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>45074</odometer>
+            <year>2015-08-16 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>103</vehicle_id>
+        <model>Subaru</model>
+        <price>467906</price>
+        <contract_no>103</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>12185</odometer>
+            <year>2021-11-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>104</vehicle_id>
+        <model>Tesla</model>
+        <price>409263</price>
+        <contract_no>104</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2022-02-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>105</vehicle_id>
+        <model>Honda</model>
+        <price>442964</price>
+        <contract_no>105</contract_no>
+        <color>Grey</color>
+        <type name="new">
+            <year>2023-01-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>106</vehicle_id>
+        <model>Chrysler</model>
+        <price>415557</price>
+        <contract_no>106</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>26958</odometer>
+            <year>2018-10-19 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>107</vehicle_id>
+        <model>Chrysler</model>
+        <price>160316</price>
+        <contract_no>107</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2023-04-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>108</vehicle_id>
+        <model>Toyota</model>
+        <price>379954</price>
+        <contract_no>108</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2023-10-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>109</vehicle_id>
+        <model>Lexus</model>
+        <price>161173</price>
+        <contract_no>109</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>43720</odometer>
+            <year>2022-05-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>110</vehicle_id>
+        <model>Lexus</model>
+        <price>138317</price>
+        <contract_no>110</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>20547</odometer>
+            <year>2014-03-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>111</vehicle_id>
+        <model>Infiniti</model>
+        <price>230937</price>
+        <contract_no>111</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2020-12-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>112</vehicle_id>
+        <model>BMW</model>
+        <price>455209</price>
+        <contract_no>112</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>20809</odometer>
+            <year>2013-12-16 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>113</vehicle_id>
+        <model>Chevrolet</model>
+        <price>205288</price>
+        <contract_no>113</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>47958</odometer>
+            <year>2019-01-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>114</vehicle_id>
+        <model>Dodge</model>
+        <price>279722</price>
+        <contract_no>114</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2023-12-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>115</vehicle_id>
+        <model>Chevrolet</model>
+        <price>207773</price>
+        <contract_no>115</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2023-07-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>116</vehicle_id>
+        <model>Kia</model>
+        <price>123794</price>
+        <contract_no>116</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2020-12-11 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>117</vehicle_id>
+        <model>Hyundai</model>
+        <price>258601</price>
+        <contract_no>117</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2022-05-31 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>118</vehicle_id>
+        <model>Ford</model>
+        <price>245131</price>
+        <contract_no>118</contract_no>
+        <color>Black</color>
+        <type name="new">
+            <year>2023-10-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>119</vehicle_id>
+        <model>Kia</model>
+        <price>469817</price>
+        <contract_no>119</contract_no>
+        <color>Grey</color>
+        <type name="new">
+            <year>2022-07-04 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>120</vehicle_id>
+        <model>Mazda</model>
+        <price>418202</price>
+        <contract_no>120</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2020-08-08 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>121</vehicle_id>
+        <model>Ford</model>
+        <price>161083</price>
+        <contract_no>121</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>37997</odometer>
+            <year>2015-05-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>122</vehicle_id>
+        <model>Jeep</model>
+        <price>405171</price>
+        <contract_no>122</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>47370</odometer>
+            <year>2014-05-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>123</vehicle_id>
+        <model>Mazda</model>
+        <price>444019</price>
+        <contract_no>123</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2023-04-24 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>124</vehicle_id>
+        <model>Land Rover</model>
+        <price>144295</price>
+        <contract_no>124</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>23406</odometer>
+            <year>2019-05-19 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>125</vehicle_id>
+        <model>Tesla</model>
+        <price>307814</price>
+        <contract_no>125</contract_no>
+        <color>Grey</color>
+        <type name="new">
+            <year>2020-06-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>126</vehicle_id>
+        <model>Chrysler</model>
+        <price>402843</price>
+        <contract_no>126</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>32467</odometer>
+            <year>2015-09-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>127</vehicle_id>
+        <model>Ford</model>
+        <price>483156</price>
+        <contract_no>127</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2023-09-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>128</vehicle_id>
+        <model>Jeep</model>
+        <price>472002</price>
+        <contract_no>128</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2022-01-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>129</vehicle_id>
+        <model>Lexus</model>
+        <price>290878</price>
+        <contract_no>129</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>13337</odometer>
+            <year>2021-05-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>130</vehicle_id>
+        <model>BMW</model>
+        <price>382600</price>
+        <contract_no>130</contract_no>
+        <color>Grey</color>
+        <type name="new">
+            <year>2022-11-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>131</vehicle_id>
+        <model>Mazda</model>
+        <price>426907</price>
+        <contract_no>131</contract_no>
+        <color>Red</color>
+        <type name="new">
+            <year>2021-05-22 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>132</vehicle_id>
+        <model>Jeep</model>
+        <price>398704</price>
+        <contract_no>132</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>12920</odometer>
+            <year>2022-02-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>133</vehicle_id>
+        <model>Chevrolet</model>
+        <price>232216</price>
+        <contract_no>133</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2021-08-24 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>134</vehicle_id>
+        <model>Hyundai</model>
+        <price>374726</price>
+        <contract_no>134</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>45402</odometer>
+            <year>2013-07-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>135</vehicle_id>
+        <model>Lexus</model>
+        <price>407763</price>
+        <contract_no>135</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>14901</odometer>
+            <year>2016-09-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>136</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>160812</price>
+        <contract_no>136</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2020-04-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>137</vehicle_id>
+        <model>Infiniti</model>
+        <price>226658</price>
+        <contract_no>137</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>48609</odometer>
+            <year>2018-09-10 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>138</vehicle_id>
+        <model>Volvo</model>
+        <price>180565</price>
+        <contract_no>138</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>24935</odometer>
+            <year>2022-01-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>139</vehicle_id>
+        <model>Tesla</model>
+        <price>465931</price>
+        <contract_no>139</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>33947</odometer>
+            <year>2021-04-10 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>140</vehicle_id>
+        <model>Mazda</model>
+        <price>424298</price>
+        <contract_no>140</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2020-01-04 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>141</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>383617</price>
+        <contract_no>141</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>19772</odometer>
+            <year>2020-05-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>142</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>326929</price>
+        <contract_no>142</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>21803</odometer>
+            <year>2019-03-26 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>143</vehicle_id>
+        <model>Chevrolet</model>
+        <price>192185</price>
+        <contract_no>143</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2022-12-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>144</vehicle_id>
+        <model>Honda</model>
+        <price>212981</price>
+        <contract_no>144</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>36677</odometer>
+            <year>2014-11-08 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>145</vehicle_id>
+        <model>Dodge</model>
+        <price>299335</price>
+        <contract_no>145</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2020-12-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>146</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>257978</price>
+        <contract_no>146</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>42984</odometer>
+            <year>2018-10-26 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>147</vehicle_id>
+        <model>Land Rover</model>
+        <price>218586</price>
+        <contract_no>147</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>29147</odometer>
+            <year>2014-02-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>148</vehicle_id>
+        <model>Toyota</model>
+        <price>315479</price>
+        <contract_no>148</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2020-04-21 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>149</vehicle_id>
+        <model>Hyundai</model>
+        <price>126142</price>
+        <contract_no>149</contract_no>
+        <color>Red</color>
+        <type name="new">
+            <year>2023-08-24 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>150</vehicle_id>
+        <model>Chevrolet</model>
+        <price>362193</price>
+        <contract_no>150</contract_no>
+        <color>Pink</color>
+        <type name="used">
+            <odometer>35769</odometer>
+            <year>2018-12-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>151</vehicle_id>
+        <model>Lexus</model>
+        <price>391401</price>
+        <contract_no>151</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2023-06-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>152</vehicle_id>
+        <model>Mazda</model>
+        <price>282285</price>
+        <contract_no>152</contract_no>
+        <color>Red</color>
+        <type name="new">
+            <year>2022-08-04 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>153</vehicle_id>
+        <model>Honda</model>
+        <price>272391</price>
+        <contract_no>153</contract_no>
+        <color>Red</color>
+        <type name="new">
+            <year>2022-09-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>154</vehicle_id>
+        <model>Hyundai</model>
+        <price>365576</price>
+        <contract_no>154</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2021-05-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>155</vehicle_id>
+        <model>Lexus</model>
+        <price>271385</price>
+        <contract_no>155</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2022-04-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>156</vehicle_id>
+        <model>Subaru</model>
+        <price>447114</price>
+        <contract_no>156</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>34204</odometer>
+            <year>2012-02-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>157</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>269756</price>
+        <contract_no>157</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2022-04-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>158</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>116932</price>
+        <contract_no>158</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>29653</odometer>
+            <year>2017-08-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>159</vehicle_id>
+        <model>Dodge</model>
+        <price>208388</price>
+        <contract_no>159</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>43688</odometer>
+            <year>2016-01-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>160</vehicle_id>
+        <model>Nissan</model>
+        <price>303485</price>
+        <contract_no>160</contract_no>
+        <color>Red</color>
+        <type name="new">
+            <year>2022-10-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>161</vehicle_id>
+        <model>Infiniti</model>
+        <price>338417</price>
+        <contract_no>161</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2020-04-29 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>162</vehicle_id>
+        <model>Toyota</model>
+        <price>140091</price>
+        <contract_no>162</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>12323</odometer>
+            <year>2022-06-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>163</vehicle_id>
+        <model>Toyota</model>
+        <price>449925</price>
+        <contract_no>163</contract_no>
+        <color>Electric Blue</color>
+        <type name="used">
+            <odometer>17142</odometer>
+            <year>2012-05-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>164</vehicle_id>
+        <model>Volvo</model>
+        <price>270067</price>
+        <contract_no>164</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>48650</odometer>
+            <year>2016-10-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>165</vehicle_id>
+        <model>Audi</model>
+        <price>435519</price>
+        <contract_no>165</contract_no>
+        <color>Black</color>
+        <type name="new">
+            <year>2020-03-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>166</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>143353</price>
+        <contract_no>166</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>23400</odometer>
+            <year>2017-01-19 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>167</vehicle_id>
+        <model>Chrysler</model>
+        <price>287715</price>
+        <contract_no>167</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>20200</odometer>
+            <year>2018-01-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>168</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>185438</price>
+        <contract_no>168</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2023-12-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>169</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>469776</price>
+        <contract_no>169</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2020-09-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>170</vehicle_id>
+        <model>Nissan</model>
+        <price>106539</price>
+        <contract_no>170</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2023-07-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>171</vehicle_id>
+        <model>Jeep</model>
+        <price>446861</price>
+        <contract_no>171</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2020-07-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>172</vehicle_id>
+        <model>Chevrolet</model>
+        <price>383871</price>
+        <contract_no>172</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2023-04-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>173</vehicle_id>
+        <model>Toyota</model>
+        <price>235051</price>
+        <contract_no>173</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2020-09-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>174</vehicle_id>
+        <model>Infiniti</model>
+        <price>341884</price>
+        <contract_no>174</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2021-02-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>175</vehicle_id>
+        <model>Infiniti</model>
+        <price>184253</price>
+        <contract_no>175</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>26778</odometer>
+            <year>2013-12-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>176</vehicle_id>
+        <model>Jeep</model>
+        <price>449528</price>
+        <contract_no>176</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2022-12-04 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>177</vehicle_id>
+        <model>Chrysler</model>
+        <price>291065</price>
+        <contract_no>177</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>24157</odometer>
+            <year>2014-11-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>178</vehicle_id>
+        <model>Tesla</model>
+        <price>307583</price>
+        <contract_no>178</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2021-08-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>179</vehicle_id>
+        <model>Toyota</model>
+        <price>291226</price>
+        <contract_no>179</contract_no>
+        <color>Red</color>
+        <type name="new">
+            <year>2021-09-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>180</vehicle_id>
+        <model>Volvo</model>
+        <price>222820</price>
+        <contract_no>180</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>48243</odometer>
+            <year>2020-07-19 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>181</vehicle_id>
+        <model>Volvo</model>
+        <price>322470</price>
+        <contract_no>181</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2020-09-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>182</vehicle_id>
+        <model>Subaru</model>
+        <price>497167</price>
+        <contract_no>182</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2022-02-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>183</vehicle_id>
+        <model>Honda</model>
+        <price>389762</price>
+        <contract_no>183</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2022-03-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>184</vehicle_id>
+        <model>Audi</model>
+        <price>359972</price>
+        <contract_no>184</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2020-05-16 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>185</vehicle_id>
+        <model>Audi</model>
+        <price>463961</price>
+        <contract_no>185</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>40360</odometer>
+            <year>2017-06-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>186</vehicle_id>
+        <model>Ford</model>
+        <price>215693</price>
+        <contract_no>186</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>39354</odometer>
+            <year>2017-05-31 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>187</vehicle_id>
+        <model>Tesla</model>
+        <price>221556</price>
+        <contract_no>187</contract_no>
+        <color>Pink</color>
+        <type name="used">
+            <odometer>11770</odometer>
+            <year>2017-05-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>188</vehicle_id>
+        <model>Ford</model>
+        <price>148728</price>
+        <contract_no>188</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2021-08-16 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>189</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>355677</price>
+        <contract_no>189</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>37399</odometer>
+            <year>2020-09-22 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>190</vehicle_id>
+        <model>Jeep</model>
+        <price>167117</price>
+        <contract_no>190</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2020-03-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>191</vehicle_id>
+        <model>Kia</model>
+        <price>391147</price>
+        <contract_no>191</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2023-11-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>192</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>487652</price>
+        <contract_no>192</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2021-04-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>193</vehicle_id>
+        <model>Ford</model>
+        <price>109943</price>
+        <contract_no>193</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>36594</odometer>
+            <year>2012-08-26 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>194</vehicle_id>
+        <model>Audi</model>
+        <price>340617</price>
+        <contract_no>194</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2022-06-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>195</vehicle_id>
+        <model>BMW</model>
+        <price>454205</price>
+        <contract_no>195</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2020-09-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>196</vehicle_id>
+        <model>Audi</model>
+        <price>481943</price>
+        <contract_no>196</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2020-07-29 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>197</vehicle_id>
+        <model>Volvo</model>
+        <price>249986</price>
+        <contract_no>197</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>22788</odometer>
+            <year>2016-12-22 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>198</vehicle_id>
+        <model>Chevrolet</model>
+        <price>236529</price>
+        <contract_no>198</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2023-03-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>199</vehicle_id>
+        <model>Land Rover</model>
+        <price>166931</price>
+        <contract_no>199</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>47067</odometer>
+            <year>2019-05-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>200</vehicle_id>
+        <model>Ford</model>
+        <price>130808</price>
+        <contract_no>200</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2022-03-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>201</vehicle_id>
+        <model>Land Rover</model>
+        <price>270777</price>
+        <contract_no>201</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>13720</odometer>
+            <year>2016-07-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>202</vehicle_id>
+        <model>Dodge</model>
+        <price>267804</price>
+        <contract_no>202</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>39737</odometer>
+            <year>2012-02-21 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>203</vehicle_id>
+        <model>Chevrolet</model>
+        <price>432454</price>
+        <contract_no>203</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2022-09-21 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>204</vehicle_id>
+        <model>Tesla</model>
+        <price>454242</price>
+        <contract_no>204</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>10070</odometer>
+            <year>2020-08-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>205</vehicle_id>
+        <model>Honda</model>
+        <price>236790</price>
+        <contract_no>205</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>14993</odometer>
+            <year>2012-11-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>206</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>191407</price>
+        <contract_no>206</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2020-08-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>207</vehicle_id>
+        <model>Hyundai</model>
+        <price>250242</price>
+        <contract_no>207</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>11786</odometer>
+            <year>2014-02-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>208</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>439086</price>
+        <contract_no>208</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2020-06-11 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>209</vehicle_id>
+        <model>Subaru</model>
+        <price>393519</price>
+        <contract_no>209</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2021-02-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>210</vehicle_id>
+        <model>Jeep</model>
+        <price>379706</price>
+        <contract_no>210</contract_no>
+        <color>Blue</color>
+        <type name="used">
+            <odometer>23521</odometer>
+            <year>2021-07-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>211</vehicle_id>
+        <model>Toyota</model>
+        <price>482412</price>
+        <contract_no>211</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>16073</odometer>
+            <year>2013-12-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>212</vehicle_id>
+        <model>Jeep</model>
+        <price>493618</price>
+        <contract_no>212</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>19583</odometer>
+            <year>2022-09-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>213</vehicle_id>
+        <model>Chevrolet</model>
+        <price>307795</price>
+        <contract_no>213</contract_no>
+        <color>Orange</color>
+        <type name="new">
+            <year>2023-06-22 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>214</vehicle_id>
+        <model>Dodge</model>
+        <price>455484</price>
+        <contract_no>214</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2022-02-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>215</vehicle_id>
+        <model>Subaru</model>
+        <price>283281</price>
+        <contract_no>215</contract_no>
+        <color>Electric Blue</color>
+        <type name="used">
+            <odometer>40728</odometer>
+            <year>2019-07-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>216</vehicle_id>
+        <model>Nissan</model>
+        <price>375569</price>
+        <contract_no>216</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2022-05-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>217</vehicle_id>
+        <model>Lexus</model>
+        <price>499044</price>
+        <contract_no>217</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2023-05-17 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>218</vehicle_id>
+        <model>Dodge</model>
+        <price>166122</price>
+        <contract_no>218</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>13719</odometer>
+            <year>2020-06-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>219</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>405351</price>
+        <contract_no>219</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2023-05-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>220</vehicle_id>
+        <model>BMW</model>
+        <price>409768</price>
+        <contract_no>220</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>23044</odometer>
+            <year>2020-06-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>221</vehicle_id>
+        <model>Subaru</model>
+        <price>337062</price>
+        <contract_no>221</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2020-10-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>222</vehicle_id>
+        <model>Toyota</model>
+        <price>180730</price>
+        <contract_no>222</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2020-09-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>223</vehicle_id>
+        <model>Chrysler</model>
+        <price>264209</price>
+        <contract_no>223</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2022-08-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>224</vehicle_id>
+        <model>BMW</model>
+        <price>453377</price>
+        <contract_no>224</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2020-10-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>225</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>124842</price>
+        <contract_no>225</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2023-06-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>226</vehicle_id>
+        <model>Jeep</model>
+        <price>406370</price>
+        <contract_no>226</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2023-07-10 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>227</vehicle_id>
+        <model>Subaru</model>
+        <price>429508</price>
+        <contract_no>227</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>39201</odometer>
+            <year>2020-09-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>228</vehicle_id>
+        <model>BMW</model>
+        <price>378085</price>
+        <contract_no>228</contract_no>
+        <color>Electric Blue</color>
+        <type name="used">
+            <odometer>22155</odometer>
+            <year>2020-12-29 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>229</vehicle_id>
+        <model>Infiniti</model>
+        <price>373965</price>
+        <contract_no>229</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2023-08-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>230</vehicle_id>
+        <model>Volvo</model>
+        <price>128807</price>
+        <contract_no>230</contract_no>
+        <color>Black</color>
+        <type name="new">
+            <year>2021-02-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>231</vehicle_id>
+        <model>Toyota</model>
+        <price>440690</price>
+        <contract_no>231</contract_no>
+        <color>Green</color>
+        <type name="used">
+            <odometer>38235</odometer>
+            <year>2013-05-05 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>232</vehicle_id>
+        <model>Nissan</model>
+        <price>212257</price>
+        <contract_no>232</contract_no>
+        <color>Black</color>
+        <type name="new">
+            <year>2021-08-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>233</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>240449</price>
+        <contract_no>233</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2020-06-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>234</vehicle_id>
+        <model>Chevrolet</model>
+        <price>467465</price>
+        <contract_no>234</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>23708</odometer>
+            <year>2015-03-19 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>235</vehicle_id>
+        <model>Tesla</model>
+        <price>300202</price>
+        <contract_no>235</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>32851</odometer>
+            <year>2017-11-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>236</vehicle_id>
+        <model>Lexus</model>
+        <price>462001</price>
+        <contract_no>236</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2021-07-17 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>237</vehicle_id>
+        <model>Lexus</model>
+        <price>479618</price>
+        <contract_no>237</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2021-02-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>238</vehicle_id>
+        <model>Jeep</model>
+        <price>244118</price>
+        <contract_no>238</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>16566</odometer>
+            <year>2012-09-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>239</vehicle_id>
+        <model>Honda</model>
+        <price>260708</price>
+        <contract_no>239</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2021-12-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>240</vehicle_id>
+        <model>Volvo</model>
+        <price>181168</price>
+        <contract_no>240</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>25392</odometer>
+            <year>2019-05-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>241</vehicle_id>
+        <model>Dodge</model>
+        <price>356134</price>
+        <contract_no>241</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>28843</odometer>
+            <year>2015-01-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>242</vehicle_id>
+        <model>Toyota</model>
+        <price>136464</price>
+        <contract_no>242</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2022-01-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>243</vehicle_id>
+        <model>Hyundai</model>
+        <price>448909</price>
+        <contract_no>243</contract_no>
+        <color>Electric Blue</color>
+        <type name="used">
+            <odometer>31000</odometer>
+            <year>2015-05-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>244</vehicle_id>
+        <model>Honda</model>
+        <price>210095</price>
+        <contract_no>244</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>42326</odometer>
+            <year>2014-06-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>245</vehicle_id>
+        <model>Jeep</model>
+        <price>313080</price>
+        <contract_no>245</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>20900</odometer>
+            <year>2021-12-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>246</vehicle_id>
+        <model>Dodge</model>
+        <price>347393</price>
+        <contract_no>246</contract_no>
+        <color>Pink</color>
+        <type name="used">
+            <odometer>48598</odometer>
+            <year>2019-04-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>247</vehicle_id>
+        <model>Lexus</model>
+        <price>465683</price>
+        <contract_no>247</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>24174</odometer>
+            <year>2017-02-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>248</vehicle_id>
+        <model>Lexus</model>
+        <price>165232</price>
+        <contract_no>248</contract_no>
+        <color>Grey</color>
+        <type name="new">
+            <year>2020-12-11 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>249</vehicle_id>
+        <model>BMW</model>
+        <price>333322</price>
+        <contract_no>249</contract_no>
+        <color>Blue</color>
+        <type name="new">
+            <year>2022-12-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>250</vehicle_id>
+        <model>Honda</model>
+        <price>374707</price>
+        <contract_no>250</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>38027</odometer>
+            <year>2021-05-08 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>251</vehicle_id>
+        <model>Toyota</model>
+        <price>260292</price>
+        <contract_no>251</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2021-01-29 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>252</vehicle_id>
+        <model>BMW</model>
+        <price>159355</price>
+        <contract_no>252</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>37298</odometer>
+            <year>2014-05-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>253</vehicle_id>
+        <model>Mazda</model>
+        <price>255560</price>
+        <contract_no>253</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>30984</odometer>
+            <year>2021-04-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>254</vehicle_id>
+        <model>Hyundai</model>
+        <price>478003</price>
+        <contract_no>254</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2022-07-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>255</vehicle_id>
+        <model>Kia</model>
+        <price>142138</price>
+        <contract_no>255</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>22214</odometer>
+            <year>2012-08-15 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>256</vehicle_id>
+        <model>Chrysler</model>
+        <price>407496</price>
+        <contract_no>256</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2023-06-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>257</vehicle_id>
+        <model>Chrysler</model>
+        <price>129449</price>
+        <contract_no>257</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>27505</odometer>
+            <year>2020-02-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>258</vehicle_id>
+        <model>Land Rover</model>
+        <price>345712</price>
+        <contract_no>258</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>18965</odometer>
+            <year>2015-11-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>259</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>413398</price>
+        <contract_no>259</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>42819</odometer>
+            <year>2018-06-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>260</vehicle_id>
+        <model>Kia</model>
+        <price>320780</price>
+        <contract_no>260</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2022-01-14 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>261</vehicle_id>
+        <model>Tesla</model>
+        <price>289239</price>
+        <contract_no>261</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2023-09-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>262</vehicle_id>
+        <model>Honda</model>
+        <price>405268</price>
+        <contract_no>262</contract_no>
+        <color>Yellow</color>
+        <type name="new">
+            <year>2021-07-12 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>263</vehicle_id>
+        <model>Dodge</model>
+        <price>436302</price>
+        <contract_no>263</contract_no>
+        <color>Silver</color>
+        <type name="new">
+            <year>2021-04-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>264</vehicle_id>
+        <model>Kia</model>
+        <price>284327</price>
+        <contract_no>264</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2020-08-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>265</vehicle_id>
+        <model>BMW</model>
+        <price>326593</price>
+        <contract_no>265</contract_no>
+        <color>Green</color>
+        <type name="used">
+            <odometer>38932</odometer>
+            <year>2021-08-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>266</vehicle_id>
+        <model>Chevrolet</model>
+        <price>442576</price>
+        <contract_no>266</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>32589</odometer>
+            <year>2021-05-04 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>267</vehicle_id>
+        <model>Infiniti</model>
+        <price>375058</price>
+        <contract_no>267</contract_no>
+        <color>Pink</color>
+        <type name="new">
+            <year>2023-05-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>268</vehicle_id>
+        <model>BMW</model>
+        <price>485630</price>
+        <contract_no>268</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>35431</odometer>
+            <year>2020-02-01 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>269</vehicle_id>
+        <model>Land Rover</model>
+        <price>420290</price>
+        <contract_no>269</contract_no>
+        <color>Red</color>
+        <type name="new">
+            <year>2021-02-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>270</vehicle_id>
+        <model>Ford</model>
+        <price>444898</price>
+        <contract_no>270</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>41852</odometer>
+            <year>2021-02-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>271</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>171568</price>
+        <contract_no>271</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>32788</odometer>
+            <year>2022-08-24 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>272</vehicle_id>
+        <model>Nissan</model>
+        <price>280323</price>
+        <contract_no>272</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>19962</odometer>
+            <year>2014-11-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>273</vehicle_id>
+        <model>BMW</model>
+        <price>356497</price>
+        <contract_no>273</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2020-04-28 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>274</vehicle_id>
+        <model>Audi</model>
+        <price>144954</price>
+        <contract_no>274</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>15794</odometer>
+            <year>2019-04-07 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>275</vehicle_id>
+        <model>Tesla</model>
+        <price>461815</price>
+        <contract_no>275</contract_no>
+        <color>Grey</color>
+        <type name="used">
+            <odometer>37757</odometer>
+            <year>2020-11-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>276</vehicle_id>
+        <model>Infiniti</model>
+        <price>356411</price>
+        <contract_no>276</contract_no>
+        <color>Electric Blue</color>
+        <type name="new">
+            <year>2020-03-19 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>277</vehicle_id>
+        <model>Hyundai</model>
+        <price>252752</price>
+        <contract_no>277</contract_no>
+        <color>Green</color>
+        <type name="used">
+            <odometer>46239</odometer>
+            <year>2012-02-29 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>278</vehicle_id>
+        <model>Kia</model>
+        <price>167297</price>
+        <contract_no>278</contract_no>
+        <color>Yellow</color>
+        <type name="used">
+            <odometer>29029</odometer>
+            <year>2020-07-23 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>279</vehicle_id>
+        <model>Chrysler</model>
+        <price>371886</price>
+        <contract_no>279</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>24990</odometer>
+            <year>2019-08-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>280</vehicle_id>
+        <model>Toyota</model>
+        <price>356437</price>
+        <contract_no>280</contract_no>
+        <color>Cyan</color>
+        <type name="new">
+            <year>2021-05-24 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>281</vehicle_id>
+        <model>BMW</model>
+        <price>447532</price>
+        <contract_no>281</contract_no>
+        <color>Green</color>
+        <type name="new">
+            <year>2022-10-20 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>282</vehicle_id>
+        <model>Chevrolet</model>
+        <price>222001</price>
+        <contract_no>282</contract_no>
+        <color>Pink</color>
+        <type name="used">
+            <odometer>14535</odometer>
+            <year>2017-07-10 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>283</vehicle_id>
+        <model>Jeep</model>
+        <price>384445</price>
+        <contract_no>283</contract_no>
+        <color>Navy Blue</color>
+        <type name="used">
+            <odometer>49574</odometer>
+            <year>2017-01-10 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>284</vehicle_id>
+        <model>Jeep</model>
+        <price>194501</price>
+        <contract_no>284</contract_no>
+        <color>Red</color>
+        <type name="used">
+            <odometer>22622</odometer>
+            <year>2014-06-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>285</vehicle_id>
+        <model>Honda</model>
+        <price>324337</price>
+        <contract_no>285</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>10844</odometer>
+            <year>2013-04-08 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>286</vehicle_id>
+        <model>Kia</model>
+        <price>474846</price>
+        <contract_no>286</contract_no>
+        <color>Grey</color>
+        <type name="new">
+            <year>2022-09-29 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>287</vehicle_id>
+        <model>Jeep</model>
+        <price>449996</price>
+        <contract_no>287</contract_no>
+        <color>Emerald</color>
+        <type name="used">
+            <odometer>46737</odometer>
+            <year>2019-06-29 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>288</vehicle_id>
+        <model>Mazda</model>
+        <price>196986</price>
+        <contract_no>288</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2020-01-03 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>289</vehicle_id>
+        <model>Jeep</model>
+        <price>376836</price>
+        <contract_no>289</contract_no>
+        <color>Black</color>
+        <type name="new">
+            <year>2020-10-09 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>290</vehicle_id>
+        <model>Chrysler</model>
+        <price>253347</price>
+        <contract_no>290</contract_no>
+        <color>Gold</color>
+        <type name="used">
+            <odometer>29788</odometer>
+            <year>2022-06-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>291</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>460717</price>
+        <contract_no>291</contract_no>
+        <color>Black</color>
+        <type name="used">
+            <odometer>47013</odometer>
+            <year>2021-04-02 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>292</vehicle_id>
+        <model>Honda</model>
+        <price>289364</price>
+        <contract_no>292</contract_no>
+        <color>Emerald</color>
+        <type name="new">
+            <year>2021-01-30 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>293</vehicle_id>
+        <model>Toyota</model>
+        <price>264100</price>
+        <contract_no>293</contract_no>
+        <color>Navy Blue</color>
+        <type name="new">
+            <year>2022-12-25 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>294</vehicle_id>
+        <model>Honda</model>
+        <price>307308</price>
+        <contract_no>294</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2020-06-06 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>295</vehicle_id>
+        <model>Jeep</model>
+        <price>192148</price>
+        <contract_no>295</contract_no>
+        <color>Cyan</color>
+        <type name="used">
+            <odometer>49383</odometer>
+            <year>2017-07-27 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>296</vehicle_id>
+        <model>BMW</model>
+        <price>133511</price>
+        <contract_no>296</contract_no>
+        <color>Orange</color>
+        <type name="used">
+            <odometer>15698</odometer>
+            <year>2014-08-18 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>297</vehicle_id>
+        <model>Mercedes-Benz</model>
+        <price>128833</price>
+        <contract_no>297</contract_no>
+        <color>Gold</color>
+        <type name="new">
+            <year>2023-05-04 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>298</vehicle_id>
+        <model>Ford</model>
+        <price>384392</price>
+        <contract_no>298</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>49619</odometer>
+            <year>2020-06-11 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>299</vehicle_id>
+        <model>Mazda</model>
+        <price>161897</price>
+        <contract_no>299</contract_no>
+        <color>Green</color>
+        <type name="used">
+            <odometer>44368</odometer>
+            <year>2020-09-13 00:00:00</year>
+        </type>
+    </car>
+
+
+    <car>
+        <vehicle_id>300</vehicle_id>
+        <model>Audi</model>
+        <price>238488</price>
+        <contract_no>300</contract_no>
+        <color>Silver</color>
+        <type name="used">
+            <odometer>17831</odometer>
+            <year>2015-07-04 00:00:00</year>
+        </type>
+    </car>
+</cars>
