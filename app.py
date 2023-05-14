@@ -16,13 +16,9 @@ class XPathApp(QWidget):
         self.xpath_input = QLineEdit(self)
         layout.addWidget(self.xpath_input)
 
-        # Button to execute XPath query
-        self.execute_button = QPushButton("Execute", self)
-        self.execute_button.clicked.connect(self.execute_xpath)
-        layout.addWidget(self.execute_button)
-
         # Create a horizontal layout for the query buttons
         query_layout = QHBoxLayout()
+        execute_clear_layout = QHBoxLayout()
         
         # Button to execute XPath Query 1
         self.query1_button = QPushButton("Query 1", self)
@@ -41,6 +37,19 @@ class XPathApp(QWidget):
 
          # Add the query button layout to the main layout
         layout.addLayout(query_layout)
+
+        # Button to execute XPath query
+        self.execute_button = QPushButton("Execute", self)
+        self.execute_button.clicked.connect(self.execute_xpath)
+        execute_clear_layout.addWidget(self.execute_button)
+
+        # Create a button that clears the output text box
+        self.clear_button = QPushButton("Clear", self)
+        self.clear_button.clicked.connect(self.clear_output)
+        execute_clear_layout.addWidget(self.clear_button)
+
+        # Add the execute clear layout buttons layout to the main layout
+        layout.addLayout(execute_clear_layout)
 
         # Output text box
         self.output_text = QTextEdit(self)
@@ -97,6 +106,8 @@ class XPathApp(QWidget):
 
             self.output_text.setText(output)
     
+    def clear_output(self):
+        self.output_text.setText("")
 
 
 def iterate_results(result, output, counter):
