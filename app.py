@@ -1,5 +1,5 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QTextEdit, QHBoxLayout
+from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QTextEdit, QHBoxLayout, QTabWidget, QComboBox, QLabel
 from PyQt5.QtCore import Qt
 from lxml import etree
 
@@ -12,9 +12,32 @@ class XPathApp(QWidget):
     def initUI(self):
         layout = QVBoxLayout()
 
+        # Create a tab widget
+        tab_widget = QTabWidget(self)
+
+        # Create tabs and add them to the tab widget
+        tab1 = QWidget()
+        tab2 = QWidget()
+
+        # Create the Layout for the Query Tab
+        tab1_layout = QVBoxLayout()
+
+        #Create the Layout for the Add Tab
+        self.tab2_layout = QVBoxLayout()
+
+        # Add Query Tab to tbe tab widget
+        tab1.setLayout(tab1_layout)
+        tab_widget.addTab(tab1, "Query")
+
+        # Add the second tab to the tab widget
+        tab2.setLayout(self.tab2_layout)
+        tab_widget.addTab(tab2, "Add")
+
+
+        # TAB 1 ITEMS
         # Input field for XPath expression
         self.xpath_input = QLineEdit(self)
-        layout.addWidget(self.xpath_input)
+        tab1_layout.addWidget(self.xpath_input)
 
         # Create a horizontal layout for the query buttons
         query_layout = QHBoxLayout()
@@ -36,7 +59,7 @@ class XPathApp(QWidget):
         query_layout.addWidget(self.query3_button)
 
          # Add the query button layout to the main layout
-        layout.addLayout(query_layout)
+        tab1_layout.addLayout(query_layout)
 
         # Button to execute XPath query
         self.execute_button = QPushButton("Execute", self)
@@ -49,11 +72,30 @@ class XPathApp(QWidget):
         execute_clear_layout.addWidget(self.clear_button)
 
         # Add the execute clear layout buttons layout to the main layout
-        layout.addLayout(execute_clear_layout)
+        tab1_layout.addLayout(execute_clear_layout)
 
         # Output text box
         self.output_text = QTextEdit(self)
-        layout.addWidget(self.output_text)
+        tab1_layout.addWidget(self.output_text)
+
+        # TAB 2 ITEMS
+        # Add a Drop down menu with choices
+        self.element = QComboBox(self)
+        self.element.addItems(["Car", "Contract", "Service","Sales Person", "Technician"])
+        self.element.activated[str].connect(self.create_from)
+
+        #Add the menu to Tab 2
+        self.tab2_layout.addWidget(self.element)
+
+        # Add a layout for the form elements
+        self.form_layout =QVBoxLayout()
+        self.tab2_layout.addLayout(self.form_layout)
+
+        # Generate the default Form
+        self.create_from(self.element.currentText())
+
+        # Add the tab widget to the main layout
+        layout.addWidget(tab_widget)
 
         self.setLayout(layout)
 
@@ -109,6 +151,70 @@ class XPathApp(QWidget):
     def clear_output(self):
         self.output_text.setText("")
 
+    def create_from(self, element):
+        self.tab2_layout
+        if element == "Car":
+
+            # Create the form layout
+            row1 = QHBoxLayout()
+            row2 = QHBoxLayout()
+            row3 = QHBoxLayout()
+
+            # Create the Label and input fields for row 1
+            vId_lbl = QLabel("Vehicle ID:")
+            self.vehicle_id = QLineEdit(self)
+            model_lbl = QLabel("Model:")
+            self.model = QComboBox(self)
+            self.model.addItems(["BMW", "Audi", "Mercedes, Benz"])
+
+            # Add the widgets to row 1
+            row1.addWidget(vId_lbl)
+            row1.addWidget(self.vehicle_id)
+            row1.addWidget(model_lbl)
+            row1.addWidget(self.model)
+
+            # Create the Label and input fields for row 2
+            price_lbl = QLabel("Price:")
+            self.price = QLineEdit(self)
+            color_lbl = QLabel("Color:")
+            self.color = QComboBox(self)
+            self.color.addItems(["Red", "Blue", "Green, Yellow"])
+            
+            # Add the widgets to row 2
+            row2.addWidget(price_lbl)
+            row2.addWidget(self.price)
+            row2.addWidget(color_lbl)
+            row2.addWidget(self.color)
+
+            # Create the Label and input fields for row 3
+            numbers_lbl = QLabel("Numbers:")
+            self.numbers = QLineEdit(self)
+            self.numbers.setMaxLength(4)
+            letters_lbl = QLabel("Letters:")
+            self.letters = QLineEdit(self)
+            self.letters.setMaxLength(4)
+
+            # Add the widgets to row 3
+            row3.addWidget(numbers_lbl)
+            row3.addWidget(self.numbers)
+            row3.addWidget(letters_lbl)
+            row3.addWidget(self.letters)
+
+            # Add the rows to the tab layout
+            self.form_layout.addLayout(row1)
+            self.form_layout.addLayout(row2)
+            self.form_layout.addLayout(row3)
+            
+
+
+        # elif element == "Contract":
+            
+        # elif element == "Service":
+            
+        # elif element == "Sales Person":
+            
+        # elif element == "Technician":
+            
 
 def iterate_results(result, output, counter):
     if len(result.getchildren()) == 0:
