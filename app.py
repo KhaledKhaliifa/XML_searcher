@@ -135,41 +135,48 @@ class XPathApp(QWidget):
             # Execute the XPath query
             results = tree.xpath(xpath_expression)
             output = f"Found a total of {len(results)} results!\n==================\n\n"
-            if(type(results[0]) == etree._ElementUnicodeResult):
-                # Format and display the results in the output text box
-                for index,result in enumerate(results):
-                    output+= f"(Result {index+1})\n"
-                    output += "\n" + str(result) + "\n___________________________________\n"
-            else:
-                for index,result in enumerate(results):
-                    output+= f"(Result {index+1})\n\n"
-                    output = iterate_results(result,output, 0)
-                    output += "___________________________________\n\n"
+            if(results):
+                if(type(results[0]) == etree._ElementUnicodeResult):
+                    # Format and display the results in the output text box
+                    for index,result in enumerate(results):
+                        output+= f"(Result {index+1})\n"
+                        output += "\n" + str(result) + "\n___________________________________\n"
+                else:
+                    for index,result in enumerate(results):
+                        output+= f"(Result {index+1})\n\n"
+                        output = iterate_results(result,output, 0)
+                        output += "___________________________________\n\n"
 
             self.output_text.setText(output)
     
     def clear_output(self):
         self.output_text.setText("")
 
+    def type_selected(self, element):
+        if(element == "used"):
+            self.odometer.setEnabled(True)
+        else:
+            self.odometer.setEnabled(False)
+
     def create_from(self, element):
-        self.tab2_layout
+        if(self.form_layout != None):
+            self.tab2_layout.removeItem(self.form_layout)
+        
         if element == "Car":
 
             # Create the form layout
             row1 = QHBoxLayout()
             row2 = QHBoxLayout()
             row3 = QHBoxLayout()
+            row4 = QHBoxLayout()
+            row5 = QHBoxLayout()
 
             # Create the Label and input fields for row 1
-            vId_lbl = QLabel("Vehicle ID:")
-            self.vehicle_id = QLineEdit(self)
             model_lbl = QLabel("Model:")
             self.model = QComboBox(self)
             self.model.addItems(["BMW", "Audi", "Mercedes, Benz"])
 
             # Add the widgets to row 1
-            row1.addWidget(vId_lbl)
-            row1.addWidget(self.vehicle_id)
             row1.addWidget(model_lbl)
             row1.addWidget(self.model)
 
@@ -178,15 +185,15 @@ class XPathApp(QWidget):
             self.price = QLineEdit(self)
             color_lbl = QLabel("Color:")
             self.color = QComboBox(self)
-            self.color.addItems(["Red", "Blue", "Green, Yellow"])
+            self.color.addItems(["Red", "Blue", "Green", "Yellow"])
             
-            # Add the widgets to row 2
-            row2.addWidget(price_lbl)
-            row2.addWidget(self.price)
-            row2.addWidget(color_lbl)
-            row2.addWidget(self.color)
+            # Add the widgets to row 1
+            row1.addWidget(price_lbl)
+            row1.addWidget(self.price)
+            row1.addWidget(color_lbl)
+            row1.addWidget(self.color)
 
-            # Create the Label and input fields for row 3
+            # Create the Label and input fields for row 2
             numbers_lbl = QLabel("Numbers:")
             self.numbers = QLineEdit(self)
             self.numbers.setMaxLength(4)
@@ -194,17 +201,109 @@ class XPathApp(QWidget):
             self.letters = QLineEdit(self)
             self.letters.setMaxLength(4)
 
-            # Add the widgets to row 3
-            row3.addWidget(numbers_lbl)
-            row3.addWidget(self.numbers)
-            row3.addWidget(letters_lbl)
-            row3.addWidget(self.letters)
+            # Create the Label and input fields for row 2
+            type_lbl = QLabel("Type:")
+            self.type = QComboBox(self)
+            self.type.addItems(["used", "new"])
+            self.type.activated[str].connect(self.type_selected)
+
+            # Add the widgets to row 2
+            row2.addWidget(numbers_lbl)
+            row2.addWidget(self.numbers)
+            row2.addWidget(letters_lbl)
+            row2.addWidget(self.letters)
+            row2.addWidget(type_lbl)
+            row2.addWidget(self.type)
+
+            #Create a label and a widget for year and odometer and add to row3
+            year_lbl = QLabel("Year:")
+            self.year = QLineEdit(self)
+            self.year.setMaxLength(4)
+            odometer_lbl = QLabel("Odometer:")
+            self.odometer = QLineEdit(self)
+            self.odometer.setMaxLength(4)
+            row3.addWidget(year_lbl)
+            row3.addWidget(self.year)
+            row3.addWidget(odometer_lbl)
+            row3.addWidget(self.odometer)
+
 
             # Add the rows to the tab layout
             self.form_layout.addLayout(row1)
             self.form_layout.addLayout(row2)
             self.form_layout.addLayout(row3)
-            
+            self.form_layout.addLayout(row4)
+
+            def return_max_id():
+                xml_file = "./XML/database.xml"
+                tree = etree.parse(xml_file)
+                xpath_query = '//cars/car/vehicle_id/text()'
+                vehicle_ids = tree.xpath(xpath_query)
+                max_vehicle_id = max(map(int, vehicle_ids))
+                return max_vehicle_id
+            def insert_cars():
+                vehicle_id = return_max_id() + 1
+                model = self.model.currentText()
+                price = self.price.text()
+                color = self.color.currentText()
+                numbers = self.numbers.text()
+                letters = self.letters.text()
+                odometer = self.odometer.text()
+                year = self.year.text()
+
+                # Load the XML file
+                xml_file = './XML/database.xml'
+                tree = etree.parse(xml_file)
+                # Find the <cars> element
+                cars_element = tree.find('.//cars')
+
+                # Create the new <car> element
+                car_element = etree.Element('car')
+
+                # Create child elements and set their values
+                vehicle_id_element = etree.SubElement(car_element, 'vehicle_id')
+                vehicle_id_element.text = str(vehicle_id)
+                type_element = etree.SubElement(car_element, 'type')
+
+
+                if(self.type.currentText() == "used"):
+                    type_element.attrib['name'] = "used"
+                    odometer_element = etree.SubElement(type_element, 'odometer')
+                    odometer_element.text = odometer
+
+                else:
+                    type_element.attrib['name'] = "new"
+
+                year_id_element = etree.SubElement(type_element, 'year')
+                year_id_element.text = year
+
+                model_element = etree.SubElement(car_element, 'model')
+                model_element.text = model
+
+                price_element = etree.SubElement(car_element, 'price')
+                price_element.text = str(price)
+
+
+                color_element = etree.SubElement(car_element, 'color')
+                color_element.text = color
+
+                numbers_element = etree.SubElement(car_element, 'numbers')
+                numbers_element.text = str(numbers)
+
+                letters_element = etree.SubElement(car_element, 'letters')
+                letters_element.text = str(letters)
+
+                            
+                # Append the new <car> element to the <cars> element
+                cars_element.append(car_element)
+
+                # Save the modified XML file
+                tree.write(xml_file, pretty_print=True)
+
+            self.insert_button = QPushButton("Insert", self)
+
+            self.insert_button.clicked.connect(insert_cars) # Choose a suitable XPath expression
+            row4.addWidget(self.insert_button)
 
 
         # elif element == "Contract":

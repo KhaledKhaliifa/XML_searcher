@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <database>
    <employees>
       <salesperson>
@@ -19152,5 +19151,5 @@
                <year>2015-07-04 00:00:00</year>
          </type>
       </car>
-   </cars>
+   <car><vehicle_id>301</vehicle_id><type name="used"><odometer/><year/></type><model>BMW</model><price/><color>Red</color><numbers/><letters/></car><car><vehicle_id>302</vehicle_id><type name="used"><odometer></odometer><year></year></type><model>BMW</model><price></price><color>Red</color><numbers></numbers><letters></letters></car></cars>
 </database>
