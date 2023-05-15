@@ -19151,5 +19151,5 @@
                <year>2015-07-04 00:00:00</year>
          </type>
       </car>
-   <car><vehicle_id>301</vehicle_id><type name="used"><odometer/><year/></type><model>BMW</model><price/><color>Red</color><numbers/><letters/></car><car><vehicle_id>302</vehicle_id><type name="used"><odometer></odometer><year></year></type><model>BMW</model><price></price><color>Red</color><numbers></numbers><letters></letters></car></cars>
+   </cars>
 </database>

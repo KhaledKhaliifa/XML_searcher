@@ -1,5 +1,5 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QTextEdit, QHBoxLayout, QTabWidget, QComboBox, QLabel,QDateEdit,  QSpacerItem, QSizePolicy
+from PyQt5.QtWidgets import QApplication, QMessageBox, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QTextEdit, QHBoxLayout, QTabWidget, QComboBox, QLabel,QDateEdit,  QSpacerItem, QSizePolicy
 from PyQt5.QtCore import Qt, QDate
 from lxml import etree
 
@@ -19,6 +19,8 @@ class XPathApp(QWidget):
         tab1 = QWidget()
         tab2 = QWidget()
         tab3 = QWidget()
+        tab4 = QWidget()
+        tab5 = QWidget()
 
         # Create form Layout
         self.car_form_layout = None
@@ -32,6 +34,13 @@ class XPathApp(QWidget):
         #Create the Layout for the Add Cars Tab
         self.tab3_layout = QVBoxLayout()
 
+        #Create the layout for the Add Salesperson Tab
+        self.tab4_layout = QVBoxLayout()
+
+        #Create the layout for the Add Technician Tab
+        self.tab5_layout = QVBoxLayout()
+
+
         # Add Query Tab to tbe tab widget
         tab1.setLayout(tab1_layout)
         tab_widget.addTab(tab1, "Query")
@@ -43,6 +52,14 @@ class XPathApp(QWidget):
         # Add the third tab to the tab widget
         tab3.setLayout(self.tab3_layout)
         tab_widget.addTab(tab3, "Add Contracts")
+
+        # Add the fourth tab to the tab widget
+        tab4.setLayout(self.tab4_layout)
+        tab_widget.addTab(tab4, "Add Salesperson")
+
+        # ADd the fifth tab to the tab widget
+        tab5.setLayout(self.tab5_layout)
+        tab_widget.addTab(tab5, "Add Technician")
 
         # TAB 1 ITEMS
         # Input field for XPath expression
@@ -89,7 +106,6 @@ class XPathApp(QWidget):
         tab1_layout.addWidget(self.output_text)
 
         # TAB 2 ITEMS
-
         # Add a layout for the form elements
         self.car_form_layout =QVBoxLayout()
         spacer_item = QSpacerItem(0, 0, QSizePolicy.Minimum, QSizePolicy.Expanding)
@@ -104,6 +120,23 @@ class XPathApp(QWidget):
         self.tab3_layout.addLayout(self.contract_form_layout)
         self.tab3_layout.addItem(spacer_item1)
         self.create_contract_form()
+
+        #TAB 4 ITEMS
+        # Add a layout for the form elements
+        self.salesperson_form_layout =QVBoxLayout()
+        spacer_item2 = QSpacerItem(0, 0, QSizePolicy.Minimum, QSizePolicy.Expanding)
+        self.tab4_layout.addLayout(self.salesperson_form_layout)
+        self.tab4_layout.addItem(spacer_item2)
+        self.create_salesperson_form()
+
+        #TAB 5 ITEMS
+        # Add a layout for the form elements
+        self.technician_form_layout =QVBoxLayout()
+        spacer_item3 = QSpacerItem(0, 0, QSizePolicy.Minimum, QSizePolicy.Expanding)
+        self.tab5_layout.addLayout(self.technician_form_layout)
+        self.tab5_layout.addItem(spacer_item3)
+        self.create_technician_form()
+    
 
         # Add the tab widget to the main layout
         layout.addWidget(tab_widget)
@@ -259,7 +292,7 @@ class XPathApp(QWidget):
             year = self.year.text()
 
             if(price.replace(" ","") == "" or numbers.replace(" ","") == "" or letters.replace(" ","") == "" or (odometer.replace(" ","") == "" and self.type.currentText()=="used") or year.replace(" ","") == ""):
-                print("Not added")
+                QMessageBox.warning(self, "Warning", "All fields are required!")
                 return
 
             # Load the XML file
@@ -363,6 +396,108 @@ class XPathApp(QWidget):
         self.tab3_layout.addWidget(customer_lbl)
         self.tab3_layout.addLayout(row3)
         self.tab3_layout.addWidget(insert_button)
+
+    def create_salesperson_form(self):
+        row1 = QHBoxLayout()
+        row2 = QHBoxLayout()
+        row3 = QHBoxLayout()
+
+        firstName_lbl = QLabel("First Name:")
+        self.sales_firstName = QLineEdit(self)
+        lastName_lbl = QLabel("Last Name:")
+        self.sales_lastName = QLineEdit(self)
+
+        address_lbl = QLabel("Address:")
+        self.sales_address_widget = QLineEdit(self)
+
+        phone_no_lbl = QLabel("Phone No:")
+        self.sales_phone_no = QLineEdit(self)
+
+        salary_lbl = QLabel("Salary:")
+        self.sales_salary_widget = QLineEdit(self)
+
+        sex_lbl = QLabel("Sex:")
+        self.sales_sex_widget = QComboBox(self)
+        self.sales_sex_widget.addItems(["M", "F"])
+
+        sales_lbl = QLabel("Sales:")
+        self.sales = QLineEdit(self)
+
+        row1.addWidget(firstName_lbl)
+        row1.addWidget(self.sales_firstName)
+        row1.addWidget(lastName_lbl)
+        row1.addWidget(self.sales_lastName)
+
+        row2.addWidget(address_lbl)
+        row2.addWidget(self.sales_address_widget)
+        row2.addWidget(phone_no_lbl)
+        row2.addWidget(self.sales_phone_no)
+
+        row3.addWidget(salary_lbl)
+        row3.addWidget(self.sales_salary_widget)
+        row3.addWidget(sex_lbl)
+        row3.addWidget(self.sales_sex_widget)
+        row3.addWidget(sales_lbl)
+        row3.addWidget(self.sales)
+
+        sales_insert_button = QPushButton("Insert", self)
+        sales_insert_button.clicked.connect(self.insert_salesperson)
+        self.tab4_layout.addLayout(row1)
+        self.tab4_layout.addLayout(row2)
+        self.tab4_layout.addLayout(row3)
+        self.tab4_layout.addWidget(sales_insert_button)
+
+    def create_technician_form(self):
+        row1 = QHBoxLayout()
+        row2 = QHBoxLayout()
+        row3 = QHBoxLayout()
+
+        firstName_lbl = QLabel("First Name:")
+        self.tech_firstName = QLineEdit(self)
+        lastName_lbl = QLabel("Last Name:")
+        self.tech_lastName = QLineEdit(self)
+
+        address_lbl = QLabel("Address:")
+        self.tech_address = QLineEdit(self)
+
+        phone_no_lbl = QLabel("Phone No:")
+        self.technician_phone = QLineEdit(self)
+
+        salary_lbl = QLabel("Salary:")
+        self.techs_salary = QLineEdit(self)
+
+        sex_lbl = QLabel("Sex:")
+        self.tech_sex = QComboBox(self)
+        self.tech_sex.addItems(["M", "F"])
+
+        specialization_lbl = QLabel("Specialization:")
+        self.specialization = QComboBox(self)
+        self.specialization.addItems(["electrician", "mechanic"])
+
+        row1.addWidget(firstName_lbl)
+        row1.addWidget(self.tech_firstName)
+        row1.addWidget(lastName_lbl)
+        row1.addWidget(self.tech_lastName)
+
+        row2.addWidget(address_lbl)
+        row2.addWidget(self.tech_address)
+        row2.addWidget(phone_no_lbl)
+        row2.addWidget(self.technician_phone)
+
+        row3.addWidget(salary_lbl)
+        row3.addWidget(self.techs_salary)
+        row3.addWidget(sex_lbl)
+        row3.addWidget(self.tech_sex)
+        row3.addWidget(specialization_lbl)
+        row3.addWidget(self.specialization)
+
+
+        tech_insert_button = QPushButton("Insert", self)
+        tech_insert_button.clicked.connect(self.insert_technician)
+        self.tab5_layout.addLayout(row1)
+        self.tab5_layout.addLayout(row2)
+        self.tab5_layout.addLayout(row3)
+        self.tab5_layout.addWidget(tech_insert_button)
     
     def return_max_contract_id(self):
             xml_file = "./XML/database.xml"
@@ -388,6 +523,86 @@ class XPathApp(QWidget):
             max_customer_id = max(map(int, customer_ids))
             return max_customer_id
     
+    def return_max_employee_id(self):
+            xml_file = "./XML/database.xml"
+            tree = etree.parse(xml_file)
+            xpath_query_salesperson = '//employees/salesperson/emp_id/text()'
+            xpath_query_technician = '//employees/technician/emp_id/text()'
+            
+            salesperson_ids = tree.xpath(xpath_query_salesperson)
+            technician_ids = tree.xpath(xpath_query_technician)
+            max_salesperson_id = max(map(int, salesperson_ids))
+            max_technician_id = max(map(int, technician_ids))
+
+            if(max_salesperson_id > max_technician_id):
+                return max_salesperson_id
+            else:
+                return max_technician_id
+    def insert_technician(self):
+        tech_emp_id = self.return_max_employee_id() + 1
+        tech_fname = self.tech_firstName.text()
+        tech_lname = self.tech_lastName.text()
+        tech_phone_no = self.technician_phone.text()
+        tech_salary = self.techs_salary.text()
+        tech_address = self.tech_address.text()
+        tech_spec = self.specialization.currentText()
+        tech_sex = self.tech_sex.currentText()
+        if(tech_fname.replace(" ", "") == "" or
+           tech_lname.replace(" ", "") == "" or tech_phone_no.replace(" ", "") == "" or
+           tech_salary.replace(" ", "") == "" or tech_address.replace(" ", "") == "" or
+           tech_spec.replace(" ", "") == "" or tech_sex.replace(" ", "") == ""):
+            QMessageBox.warning(self, "Warning", "All fields are required!")
+            return
+        
+        xml_file = "./XML/database.xml"
+        tree = etree.parse(xml_file)
+        employee = tree.find(".//employees")
+        technician = etree.Element("technician")      
+        technician.set("emp_id", str(tech_emp_id))
+        technician.set("fname", tech_fname)
+        technician.set("lname", tech_lname)
+        technician.set("phone_no", tech_phone_no)
+        technician.set("salary", tech_salary)
+        technician.set("address", tech_address)
+        technician.set("specialization", tech_spec)
+        technician.set("sex", tech_sex)
+
+        employee.append(technician)
+        tree.write(xml_file)
+
+    def insert_salesperson(self):
+        sales_emp_id = self.return_max_employee_id() + 1
+        sales_fname = self.sales_firstName.text()
+        sales_lname = self.sales_lastName.text()
+        sales_phone = self.sales_phone_no.text()
+        sales_salary = self.sales_salary_widget.text()
+        sales_address = self.sales_address_widget.text()
+        sales_sales = self.sales.text()
+        sales_sex = self.sales_sex_widget.currentText()
+
+        if(sales_fname.replace(" ", "") == "" or 
+           sales_lname.replace(" ", "") == "" or sales_phone.replace(" ", "") == "" or 
+           sales_salary.replace(" ", "") == "" or sales_address.replace(" ", "") == "" or 
+           sales_sales.replace(" ", "") == ""):
+            QMessageBox.warning(self, "Warning", "All fields are required!")
+            return
+
+        xml_file = "./XML/database.xml"
+        tree = etree.parse(xml_file)
+        employee = tree.find(".//employees")
+        salesperson = etree.Element("salesperson")
+        salesperson.set("emp_id", str(sales_emp_id))
+        salesperson.set("fname", sales_fname)
+        salesperson.set("lname", sales_lname)
+        salesperson.set("phone_no", sales_phone)
+        salesperson.set("salary", sales_salary)
+        salesperson.set("address", sales_address)
+        salesperson.set("sales", sales_sales)
+        salesperson.set("sex", sales_sex)
+
+        employee.append(salesperson)
+        tree.write(xml_file)
+
     def insert_contract(self):
         contract_no = self.return_max_contract_id() + 1
         cdate = self.contract_date.text()
@@ -402,7 +617,7 @@ class XPathApp(QWidget):
 
         if(payment.replace(" ", "") == "" or service_price.replace(" ", "") == "" or service_name.replace(" ", "") == "" 
            or customer_fname.replace(" ", "") == "" or customer_lname.replace(" ", "") == "" or customer_phone.replace(" ", "") == ""):
-            print("Not added")
+            QMessageBox.warning(self, "Warning", "All fields are required!")
             return
 
         # Load the XML file
