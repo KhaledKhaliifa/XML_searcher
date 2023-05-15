@@ -116,26 +116,27 @@ class XPathApp(QWidget):
         #TAB 3 ITEMS
         # Add a layout for the form elements
         self.contract_form_layout =QVBoxLayout()
-        spacer_item1 = QSpacerItem(0, 0, QSizePolicy.Minimum, QSizePolicy.Expanding)
         self.tab3_layout.addLayout(self.contract_form_layout)
-        self.tab3_layout.addItem(spacer_item1)
+        # self.tab3_layout.addItem(spacer_item1)
         self.create_contract_form()
+        self.tab3_layout.addStretch(1)
 
         #TAB 4 ITEMS
         # Add a layout for the form elements
         self.salesperson_form_layout =QVBoxLayout()
-        spacer_item2 = QSpacerItem(0, 0, QSizePolicy.Minimum, QSizePolicy.Expanding)
         self.tab4_layout.addLayout(self.salesperson_form_layout)
-        self.tab4_layout.addItem(spacer_item2)
+        # self.tab4_layout.addItem(spacer_item2)
         self.create_salesperson_form()
+        self.tab4_layout.addStretch(1)
+
 
         #TAB 5 ITEMS
         # Add a layout for the form elements
         self.technician_form_layout =QVBoxLayout()
-        spacer_item3 = QSpacerItem(0, 0, QSizePolicy.Minimum, QSizePolicy.Expanding)
         self.tab5_layout.addLayout(self.technician_form_layout)
-        self.tab5_layout.addItem(spacer_item3)
+        # self.tab5_layout.addItem(spacer_item4)
         self.create_technician_form()
+        self.tab5_layout.addStretch(1)
     
 
         # Add the tab widget to the main layout
